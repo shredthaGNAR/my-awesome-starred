@@ -1089,7 +1089,7 @@
 ## git 
 
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Z Colors uses your $LS_COLORS to generate a coherent theme for Git and your Zsh prompt, command line and completions.
+- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
 - [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1812,7 +1812,7 @@
 - [MaorS/macOS-PasswordManager](https://github.com/MaorS/macOS-PasswordManager) - 🔑👨‍💻macOS Password Manager
 - [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager
 - [lodestone/macpaste](https://github.com/lodestone/macpaste) - Global middle-mouse-click copy/paste for Mac OSX (C).
-- [artginzburg/MiddleClick-BigSur](https://github.com/artginzburg/MiddleClick-BigSur) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
+- [artginzburg/MiddleClick-Ventura](https://github.com/artginzburg/MiddleClick-Ventura) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 - [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle) - 
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
@@ -3479,6 +3479,7 @@
 ## shell 
 
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
 - [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
@@ -3619,7 +3620,7 @@
 
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Z Colors uses your $LS_COLORS to generate a coherent theme for Git and your Zsh prompt, command line and completions.
+- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
 - [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
