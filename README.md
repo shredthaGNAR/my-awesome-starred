@@ -88,7 +88,6 @@
 - [pointu-l/finder-basic-visor](https://github.com/pointu-l/finder-basic-visor) - Basic AppleScript visor mode for the finder. Designed for better touch tool
 - [noonchen/BTT_NightShiftSlider](https://github.com/noonchen/BTT_NightShiftSlider) - A BetterTouchTool widget to control Night Shift strength
 - [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut) - A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
-- [xilopaint/alfred-things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
 - [PrinceBalabis/Automator](https://github.com/PrinceBalabis/Automator) - Various Automator and AppleScript workflow and scripts for simplifying life
 - [abbeycode/AppleScripts](https://github.com/abbeycode/AppleScripts) - My collection of scripts I've written over the years
@@ -198,6 +197,7 @@
 
 ## CSS 
 
+- [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) - Adds on-hover tab preview to Firefox (requires CSS theme)
 - [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 - [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored) - Prism - Firefox Photon Recolored
 - [dazecoop/firefox-theme-macos-vibrant](https://github.com/dazecoop/firefox-theme-macos-vibrant) - 
@@ -510,6 +510,7 @@
 
 ## HTML 
 
+- [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio) - Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 - [steventheworker/DockAltTab-home](https://github.com/steventheworker/DockAltTab-home) - website for DockAltTab
 - [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 - [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
@@ -534,7 +535,7 @@
 - [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts) - 
 - [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook) - Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more.
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai) - 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
 - [donspablo/Google-Drive-Direct](https://github.com/donspablo/Google-Drive-Direct) - The Google Drive Direct Bookmarklet is a bookmark that allows you to input a download URL and have it added directly to your Google Drive almost instantly, without using your bandwidth. Its really eas
@@ -870,6 +871,7 @@
 - [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
 - [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV) - website userscript: redirect embedded videos from "tubitv.com" to an external player
 - [benr0th/PlaylistSearch](https://github.com/benr0th/PlaylistSearch) - Search your Youtube™ playlists
+- [xilopaint/alfred-things](https://github.com/xilopaint/alfred-things) - Interact with Things using Alfred.
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [vexorian/dizquetv](https://github.com/vexorian/dizquetv) - Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
 - [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content) - List all the files in a GitHub repo’s directory
@@ -1440,6 +1442,7 @@
 
 ## Others 
 
+- [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 - [AlickH/BetterTouchBar](https://github.com/AlickH/BetterTouchBar) - Use BetterTouchTool to make TouchBar better.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font
