@@ -681,6 +681,7 @@
 - [loup-brun/buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
+- [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - ReMoods is an eye-health based theming plugin for the open source note-taking app Joplin.
 - [easonwong-de/WhiteSurFirefoxThemeMacOS](https://github.com/easonwong-de/WhiteSurFirefoxThemeMacOS) - (ATBC-compatible) MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Lovers
@@ -923,6 +924,7 @@
 
 ## firefox 
 
+- [steventheworker/screenhook](https://github.com/steventheworker/screenhook) - Background app to make up for BetterTouchTool's limitations. (eg: Run applescript on click (w/o modifier keys) or when connecting a display)
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
 - [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored) - Prism - Firefox Photon Recolored
 - [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis) - Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
