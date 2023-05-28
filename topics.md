@@ -2245,6 +2245,7 @@
 
 ## others 
 
+- [surbhitrao/poker-odds-omaha5](https://github.com/surbhitrao/poker-odds-omaha5) - Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, and Omaha 5 card.
 - [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) - Calibre plugin for Library Genesis
 - [sdeep27/poker-simulator](https://github.com/sdeep27/poker-simulator) - simulates starting hands and flop, turn, river for tournies and cash games in omaha and hold'em poker
 - [goldfire/pokersolver](https://github.com/goldfire/pokersolver) - Javascript poker hand solver.
