@@ -370,7 +370,7 @@
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [gonzalovsilva/joplin-dark-theme](https://github.com/gonzalovsilva/joplin-dark-theme) - 
 - [Aris-t2/CustomizeMyBird](https://github.com/Aris-t2/CustomizeMyBird) - Customize Thunderbird 52-60.x (no support for Thunderbird 68+)
-- [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird 68+
+- [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird
 - [timhettler/compass-photoshop-gradient-overlay](https://github.com/timhettler/compass-photoshop-gradient-overlay) - A compass extension to translate between Photoshop gradient overlays and CSS linear-gradients
 - [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme) - This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 - [Pepitortue/FirefoxCSS-Safari-theme](https://github.com/Pepitortue/FirefoxCSS-Safari-theme) - A Safari like them for Firefox 100+
@@ -524,6 +524,7 @@
 
 ## HTML 
 
+- [WynStaXxx/gh-bookmarks](https://github.com/WynStaXxx/gh-bookmarks) - 
 - [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
 - [ColorlibHQ/email-templates](https://github.com/ColorlibHQ/email-templates) - Free HTML email templates for Mailchimp and other emails services
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
@@ -657,6 +658,7 @@
 
 ## JavaScript 
 
+- [PokerDashboard/poker](https://github.com/PokerDashboard/poker) - 
 - [HoldemPokerTools/RangeAssistant](https://github.com/HoldemPokerTools/RangeAssistant) - Texas Hold'em Opening Range Assistant web and desktop application for OS X and Windows (beta)
 - [Shymoney/Sports-betting-web-app](https://github.com/Shymoney/Sports-betting-web-app) - Bisically this application serve as an Info system and  predicting sports results and placing a wager on the outcome.
 - [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit) - Sports betting arbitrage algorithm
@@ -1174,7 +1176,7 @@
 - [paulhoughton/vscode-jscpd](https://github.com/paulhoughton/vscode-jscpd) - Copy/Paste Detector (jscpd) for Visual Studio Code
 - [freakdesign/shopifyFD](https://github.com/freakdesign/shopifyFD) - JavaScript layer to provide additional functionality and fixes to the Shopify dashboard
 - [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️ (runs on ff 115)
-- [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on ff115) 📋🖱️🔗
+- [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. 📋🖱️🔗
 - [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! With Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 - [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch) - Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
@@ -1983,7 +1985,7 @@
 - [algolia/facebook-search](https://github.com/algolia/facebook-search) - Facebook Feed Search powered by Algolia
 - [FrancesCoronel/customize-icons](https://github.com/FrancesCoronel/customize-icons) - Customize your icons on macOS 🔧
 - [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow) - Alfred workflow to search google drive
-- [GSA/asis](https://github.com/GSA/asis) - ASIS (Advanced Social Image Search) indexes Flickr and Instagram images and provides a search API across both indexes.
+- [GSA/asis](https://github.com/GSA/asis) - ASIS (Advanced Social Image Search) indexes Flickr and MRSS images and provides a search API across both indexes.
 - [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [ttscoff/BetterTouchTool-Widgets](https://github.com/ttscoff/BetterTouchTool-Widgets) - 
