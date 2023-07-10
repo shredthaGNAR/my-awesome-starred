@@ -525,6 +525,7 @@
 
 ## HTML 
 
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
 - [WynStaXxx/gh-bookmarks](https://github.com/WynStaXxx/gh-bookmarks) - 
 - [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
 - [ColorlibHQ/email-templates](https://github.com/ColorlibHQ/email-templates) - Free HTML email templates for Mailchimp and other emails services
@@ -923,7 +924,7 @@
 - [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer) - Browser userscript to clean up hyperlink redirections and link shims
 - [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server) - This is the sync server for better-onetab. Please don't submit PR to master directly.
 - [trockerapp/trocker](https://github.com/trockerapp/trocker) - This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
-- [AnyMinorDeerPanda/tabsaver](https://github.com/AnyMinorDeerPanda/tabsaver) - Allows you to easily save all of your tabs for later use, reducing clutter
+- [xtract64/tabsaver](https://github.com/xtract64/tabsaver) - Allows you to easily save all of your tabs for later use, reducing clutter
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 - [coder-chenzhi/EasyTabURL-ChromeExtension](https://github.com/coder-chenzhi/EasyTabURL-ChromeExtension) - Help you operate tabs' url more conveniently
