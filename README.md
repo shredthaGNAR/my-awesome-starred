@@ -254,7 +254,7 @@
 - [LAX18/Unichat-Firefox-Extension](https://github.com/LAX18/Unichat-Firefox-Extension) - The repo for the firefox port of the Unichat Chrome Extension
 - [WynStaXxx/dev-new](https://github.com/WynStaXxx/dev-new) - 
 - [WynStaXxx/mytheme](https://github.com/WynStaXxx/mytheme) - firefox userchrome css theme
-- [wateroverdose/vibrantfox](https://github.com/wateroverdose/vibrantfox) - a clean firefox userchrome
+- [tynkshake/vibrantfox](https://github.com/tynkshake/vibrantfox) - a clean firefox userchrome
 - [mcosta3tc/FFCSS](https://github.com/mcosta3tc/FFCSS) - Custom FireFox CSS
 - [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
 - [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Hides the UI giving maximum space for content and aiding concentration. Unifies UI style, reduces contrast and padding. YouTube is always full screen.
@@ -1337,7 +1337,6 @@
 - [TheUmslopogaas/shipping_bar-shopify](https://github.com/TheUmslopogaas/shipping_bar-shopify) - Created a custom shipping bar / moneyspent bar for shopify store. (Turbo Theme)
 - [patrickbolle/shopify-snippets](https://github.com/patrickbolle/shopify-snippets) - Random code snippets for Shopify. Sections, snippets, templates.
 - [PaulSteelway/shopify-terrelique](https://github.com/PaulSteelway/shopify-terrelique) - 
-- [TGIFelix/liquid_flex](https://github.com/TGIFelix/liquid_flex) - Getting started with Shopify OS 2.0
 - [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically) - Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
 - [DozenPixels/shopify-free-shipping-bar](https://github.com/DozenPixels/shopify-free-shipping-bar) - Add a custom Free Shipping bar to Cart in Shopify
 - [JoshTag/shopify-2.0-dev-course](https://github.com/JoshTag/shopify-2.0-dev-course) - 
