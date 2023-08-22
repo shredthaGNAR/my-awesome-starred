@@ -1311,6 +1311,7 @@
 
 ## Kotlin 
 
+- [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches) - 🧩 Patches for ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
 - [cuynu/ytvancedx](https://github.com/cuynu/ytvancedx) - YouTube Vanced+ & YouTube Music Vanced+ project [IN DEVELOPMENT]
