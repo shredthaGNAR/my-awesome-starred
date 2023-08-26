@@ -774,7 +774,7 @@
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [k5md/Pocket-Editor-webextension](https://github.com/k5md/Pocket-Editor-webextension) - A sidebar text-editing addon for firefox
 - [d3ward/floatly](https://github.com/d3ward/floatly) - An extension that adds a floating button for browser quick actions
-- [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript) - Yuhan 自用 搜索引擎(百度 必应)优化美化 搜索引擎快速切换 哔哩哔哩(bilibili B站)细节优化 CSDN极简化 CSDN免登录复制 去除部分网站复制小尾巴 持续更新中
+- [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript) - 搜索引擎(百度/必应/谷歌)优化美化\快速切换|哔哩哔哩(bilibili)美化\移除评论区关键字搜索蓝字|CSDN 增强\极简化\沉浸式阅读\免登录复制|推特屏蔽过滤器|黄推屏蔽器|我的所有脚本👇
 - [gullitmiranda/pocket-to-raindrop](https://github.com/gullitmiranda/pocket-to-raindrop) - Script to export bookmarks from https://getpocket.com to https://raindrop.io.
 - [perXautomatik/GAS-OneTabExportOrganizer](https://github.com/perXautomatik/GAS-OneTabExportOrganizer) - OneTab -&gt; googleSheets -&gt; Clustering datasheet
 - [brcontainer/prevent-duplicate-tabs](https://github.com/brcontainer/prevent-duplicate-tabs) - Simple add-on/extension for prevent duplicate tabs
