@@ -407,7 +407,7 @@
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
-- [johannchangtw/fz.sh](https://github.com/johannchangtw/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+- [johannchangpro/fz.sh](https://github.com/johannchangpro/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions) - 🔮 A collection of useful Bash/ZSH functions
 - [deinsoftware/dot-files](https://github.com/deinsoftware/dot-files) - dot Files: ZSH setup and productivity tools for development
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
@@ -615,7 +615,7 @@
 - [Phantas0s/gocket](https://github.com/Phantas0s/gocket) - 💼 CLI / TUI for Pocket
 - [kevinpollet/pocket-deduper](https://github.com/kevinpollet/pocket-deduper) - Remove duplicates from your Pocket list.
 - [hughrun/pocketsnack](https://github.com/hughrun/pocketsnack) - KonMari your Pocket tsundoku from the command line
-- [johannchangtw/zsh-interactive-cd](https://github.com/johannchangtw/zsh-interactive-cd) - Fish like interactive tab completion for cd in zsh
+- [johannchangpro/zsh-interactive-cd](https://github.com/johannchangpro/zsh-interactive-cd) - Fish like interactive tab completion for cd in zsh
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [mozilla/addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
@@ -1456,7 +1456,7 @@
 
 ## home-assistant 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights) - Home Assistant Integration for controlling Cync switches, plugs, and bulbs
 - [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar) - Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
@@ -2288,6 +2288,7 @@
 
 ## others 
 
+- [kyurishin/homebrew-kleopatra4mac](https://github.com/kyurishin/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
 - [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions) - extensions for spotify  i'm creating
 - [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit) - 
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
@@ -3719,7 +3720,7 @@
 
 ## raspberry-pi 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS) - Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 - [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera) - A Raspberry Pi based security camera to detect unknown person and raise alarm!
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -3870,7 +3871,7 @@
 
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [dyu/bookmarks](https://github.com/dyu/bookmarks) - a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 - [SamR1/rdltr](https://github.com/SamR1/rdltr) - a simple read-it later app
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -4042,7 +4043,7 @@
 
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
-- [johannchangtw/zsh-interactive-cd](https://github.com/johannchangtw/zsh-interactive-cd) - Fish like interactive tab completion for cd in zsh
+- [johannchangpro/zsh-interactive-cd](https://github.com/johannchangpro/zsh-interactive-cd) - Fish like interactive tab completion for cd in zsh
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
