@@ -1010,7 +1010,7 @@
 - [4ch1m/mozext](https://github.com/4ch1m/mozext) - Extensions / Add-Ons for Mozilla Firefox and Mozilla Thunderbird
 - [drsjb80/thematic](https://github.com/drsjb80/thematic) - Now the official repo for the FF/TB Thematic extension.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
-- [jeevatkm/ReplyWithHeaderMozilla](https://github.com/jeevatkm/ReplyWithHeaderMozilla) - Outlook style headers and few goodies for Thunderbird & Postbox.
+- [jeevatkm/ReplyWithHeaderMozilla](https://github.com/jeevatkm/ReplyWithHeaderMozilla) - Outlook style headers and few goodies for Thunderbird
 - [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter) - Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
 - [eyalroz/removedupes](https://github.com/eyalroz/removedupes) - Remove Duplicate Messages
 - [micz/ColumnsWizard](https://github.com/micz/ColumnsWizard) - This is a Thunderbird addon that adds some magic to the folder list columns. Check the addon website for more info...
