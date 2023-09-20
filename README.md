@@ -178,6 +178,8 @@
 
 ## C++ 
 
+- [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
+- [feather-wallet/feather](https://github.com/feather-wallet/feather) - A free and open-source Monero desktop wallet.
 - [OpenHoldem/openholdembot](https://github.com/OpenHoldem/openholdembot) - OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)
 - [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds) - A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
 - [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove) - poker evaluation and enumeration software
@@ -526,6 +528,8 @@
 
 ## HTML 
 
+- [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
+- [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [Suffuse-Team/suffuse-team.github.io](https://github.com/Suffuse-Team/suffuse-team.github.io) - Website for Suffuse
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
 - [WynStaXxx/gh-bookmarks](https://github.com/WynStaXxx/gh-bookmarks) - 
@@ -660,6 +664,9 @@
 
 ## JavaScript 
 
+- [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
+- [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
+- [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing) - UserChrome JS script to remap Firefox's Private Browsing to match everything else
 - [garywill/doubleclick-new-tab](https://github.com/garywill/doubleclick-new-tab) - Firefox open new tab by double clicking on tab bar , userchrome script. (Never need it since ff 68
 - [jingyu9575/user-chrome-js](https://github.com/jingyu9575/user-chrome-js) - Firefox extension (privileged) to enable userChrome.js support
 - [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions) - extensions for spotify  i'm creating
@@ -1346,7 +1353,7 @@
 - [halfhelix/shopify-guide](https://github.com/halfhelix/shopify-guide) - A mostly reasonable approach to Shopify theme development
 - [maazRepo/shopify-code-snippets](https://github.com/maazRepo/shopify-code-snippets) - collection of useful code snippets
 - [mitchuman/danshari](https://github.com/mitchuman/danshari) - A blank slate theme for Shopify 2.0
-- [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart) - Ajaxifies Shopify cart sections and product forms like a boss  :dark_sunglasses:
+- [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart) - Build a Shopify Ajax-cart without JavaScript coding
 - [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message) - 
 - [sunlightworks/gosun_dev](https://github.com/sunlightworks/gosun_dev) - Built for GoSun (gosun.co). Made with ♥ by Latimer Design.
 - [spiral/shopify-starter-kit](https://github.com/spiral/shopify-starter-kit) - Starter theme and environment for the largest Shopify stores.
@@ -1747,6 +1754,7 @@
 
 ## Python 
 
+- [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 - [InQuest/omnibus](https://github.com/InQuest/omnibus) - The OSINT Omnibus (beta release)
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
@@ -2037,6 +2045,8 @@
 
 ## SCSS 
 
+- [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
+- [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
 - [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–117) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
