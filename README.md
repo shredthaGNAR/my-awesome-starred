@@ -564,7 +564,7 @@
 - [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts) - 
 - [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook) - Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more.
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai) - 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
 - [WynStaXxx/static-marks-docker](https://github.com/WynStaXxx/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
@@ -609,7 +609,6 @@
 - [maizzle/starter-gradients](https://github.com/maizzle/starter-gradients) - Use CSS background gradients in HTML emails, with VML fallback for Outlook.
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
 - [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
-- [marcel-judth/Web_Shopify-Buy-Button-Demo](https://github.com/marcel-judth/Web_Shopify-Buy-Button-Demo) - 
 - [kayspiegel/shopify-notification-templates-l10n](https://github.com/kayspiegel/shopify-notification-templates-l10n) - Sometimes you need the Shopify Notification Templates in a different language than english. Starting this repo to collect some other languages. Starting with german. Want to contribute?
 - [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS) - Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
 - [solodev/email-signature](https://github.com/solodev/email-signature) - Creating a custom signature is one of those details that can add professionalism to your emails and reinforce your brand. There are, however, complications that can arise when attempting to create a s
@@ -626,6 +625,7 @@
 
 ## Java 
 
+- [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
 - [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 - [CoocooFroggy/FutureRestore-GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) - A modern GUI for FutureRestore, with added features to make the process easier.
 - [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp) - Poker Calculator JSF Webapp for Omaha, Omaha Hi/Lo and Hold'em simulations
@@ -664,6 +664,9 @@
 
 ## JavaScript 
 
+- [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
+- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing) - UserChrome JS script to remap Firefox's Private Browsing to match everything else
@@ -1002,7 +1005,7 @@
 - [DEgITx/rats-search](https://github.com/DEgITx/rats-search) - BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
 - [vaeth/bookmarkdupes](https://github.com/vaeth/bookmarkdupes) - A WebExtension which can display/remove duplicate bookmarks or empty folders
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
 - [Tusko/vimeo-private-downloader](https://github.com/Tusko/vimeo-private-downloader) - Script gets you access to download private videos on Vimeo
 - [Xinkai/TreeStyleTabCompanion.uc.js](https://github.com/Xinkai/TreeStyleTabCompanion.uc.js) - A Firefox userChrome.js for hiding the native tab bar when a sidebar tab manager is active
@@ -1491,7 +1494,7 @@
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
 - [w0lfschild/colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar) - :open_file_folder: MacForge plugin to add color back to the sidebar icons in Finder on macOS
 - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
-- [artginzburg/MiddleClick-Ventura](https://github.com/artginzburg/MiddleClick-Ventura) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
+- [artginzburg/MiddleClick-Sonoma](https://github.com/artginzburg/MiddleClick-Sonoma) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 - [folivoraAI/BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins) - Development of BetterTouchTool Plugins
 - [maccman/macgap-rb](https://github.com/maccman/macgap-rb) - Generator for MacGap
 
@@ -2238,6 +2241,7 @@
 
 ## Swift 
 
+- [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows) - Collected Alfred Workflows & Proofs of Concept
