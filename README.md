@@ -566,7 +566,6 @@
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
-- [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai) - 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
 - [WynStaXxx/static-marks-docker](https://github.com/WynStaXxx/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
 - [pvpscript/savetabs](https://github.com/pvpscript/savetabs) - A web browser extension that allows the user to save every tab's url to a file
 - [Snilda/Font-Library](https://github.com/Snilda/Font-Library) - Check Readme
@@ -1583,6 +1582,7 @@
 - [WynStaXxx/OS-Folder-Icons](https://github.com/WynStaXxx/OS-Folder-Icons) - A collection of custom folder icons for (Mac, Linux and Windows)
 - [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
+- [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai) - 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
 - [YoshifumiFuyuno/Search-from-Popup-or-ContextMenu](https://github.com/YoshifumiFuyuno/Search-from-Popup-or-ContextMenu) - WebExtension
 - [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 - [chrismessina/alfred-theme-chirp](https://github.com/chrismessina/alfred-theme-chirp) - Themes inspired by Twitter's new font, Chirp
