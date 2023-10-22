@@ -131,6 +131,7 @@
 
 ## C 
 
+- [Watson1978/QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM) - Quicklook plugin for Github Flavored Markdown
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [briankendall/forceFullDesktopBar](https://github.com/briankendall/forceFullDesktopBar) - Utility for macOS that modifies the Dock process so that the desktop bar in Mission Control is always full size and showing previews
