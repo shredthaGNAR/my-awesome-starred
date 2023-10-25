@@ -1463,6 +1463,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [catppuccin/joplin](https://github.com/catppuccin/joplin) - 📔️ Soothing pastel theme for Joplin
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
@@ -2377,6 +2378,7 @@
 
 ## others 
 
+- [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - Removes The "Ad blocker are not allowed on Youtube"
 - [shreygan/applescripts](https://github.com/shreygan/applescripts) - custom applescripts for btt
 - [Watson1978/QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM) - Quicklook plugin for Github Flavored Markdown
 - [dartagnanjacobson/global_poker_scraper](https://github.com/dartagnanjacobson/global_poker_scraper) - Global Poker Hand History Scraper
