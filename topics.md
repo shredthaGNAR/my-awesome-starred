@@ -3278,7 +3278,6 @@
 - [mjshofy/glass-morphism-ui-card-design](https://github.com/mjshofy/glass-morphism-ui-card-design) - Learn to create a glass morphism UI card using HTML and CSS easily
 - [junocomp/firefox-phosh-theme](https://github.com/junocomp/firefox-phosh-theme) - 
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
-- [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
 - [karlicoss/pockexport](https://github.com/karlicoss/pockexport) - Export/access your Pocket data, including highlights!
 - [craigerm/shopify-theme-dev](https://github.com/craigerm/shopify-theme-dev) - 
 - [akospaska/shopify-outofthebox](https://github.com/akospaska/shopify-outofthebox) - shopify-outofthebox
@@ -4016,6 +4015,7 @@
 - [dyu/bookmarks](https://github.com/dyu/bookmarks) - a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 - [SamR1/rdltr](https://github.com/SamR1/rdltr) - a simple read-it later app
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [ohmybahgosh/MTV-YTDLP](https://github.com/ohmybahgosh/MTV-YTDLP) - Simple script using YT-DLP do download an episode from MTV.com, and then merge the resulting multiple output MP4 files using ffmpeg.  MTV episodes are split in to multiple MP4 files, so resulting outp
