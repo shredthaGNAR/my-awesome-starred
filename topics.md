@@ -1171,7 +1171,6 @@
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [Pepitortue/FirefoxCSS-Safari-theme](https://github.com/Pepitortue/FirefoxCSS-Safari-theme) - A Safari like them for Firefox 100+
-- [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Flexible theme for manual customization.
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 - [bijij/ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 - [Shad0wSeven/Quietfox-Proton](https://github.com/Shad0wSeven/Quietfox-Proton) - Quietfox release for Proton, upgrades and improvments from myself, and from the Lepton project
@@ -3510,6 +3509,7 @@
 - [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox) - Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
 - [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme) - This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 - [TheGITofTeo997/quietfoxReborn](https://github.com/TheGITofTeo997/quietfoxReborn) - Trying to resurrect a very Clean Firefox userChrome Mod
+- [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme for manual customization
 - [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 - [Pravpro/Vibn-Central](https://github.com/Pravpro/Vibn-Central) - An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
 - [megasnippets/shopify-snippets](https://github.com/megasnippets/shopify-snippets) - 
