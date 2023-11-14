@@ -26,6 +26,7 @@
 - [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -106,6 +107,7 @@
 - [jupyter-notebook](#jupyter-notebook)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
+- [language](#language)
 - [laravel](#laravel)
 - [latex](#latex)
 - [library](#library)
@@ -210,6 +212,7 @@
 
 ## ai 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
@@ -496,6 +499,9 @@
 
 ## chatgpt 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
@@ -510,6 +516,10 @@
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
+
+## chatgpt-api 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chrome 
 
@@ -1837,6 +1847,10 @@
 
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 
+## language 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
 ## laravel 
 
 - [stuyam/laravel-phone-validator](https://github.com/stuyam/laravel-phone-validator) - A phone validator for Laravel using the free Twilio phone lookup service.
@@ -1857,6 +1871,8 @@
 
 ## linux 
 
+- [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
 - [Phantas0s/gocket](https://github.com/Phantas0s/gocket) - 💼 CLI / TUI for Pocket
@@ -1979,6 +1995,8 @@
 
 ## macos 
 
+- [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush) - The all in one AirMessage (iMessage) script you can forget about
@@ -2435,6 +2453,7 @@
 
 ## others 
 
+- [eric-bixby/auto-sort-bookmarks-webext](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Firefox add-on to sort bookmarks by multiple criteria
 - [RichardBronosky/AppleScript-droplet](https://github.com/RichardBronosky/AppleScript-droplet) - A template for creating Droplets for Mac OS X that will pass dropped files to an embedded script
 - [acidburn0zzz/Kext-Droplet-Big-Sur](https://github.com/acidburn0zzz/Kext-Droplet-Big-Sur) - Fork of archived repository from Kext-Droplet-Big-Sur by chris1111 HMF.
 - [chris1111/Kext-Droplet-Big-Sur](https://github.com/chris1111/Kext-Droplet-Big-Sur) - 
@@ -3982,6 +4001,7 @@
 
 ## rust 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [mufeedvh/gisture](https://github.com/mufeedvh/gisture) - A minimal and flexible blog generator based on GitHub Gist.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -4427,6 +4447,8 @@
 
 ## windows 
 
+- [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
 - [Phantas0s/gocket](https://github.com/Phantas0s/gocket) - 💼 CLI / TUI for Pocket
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
