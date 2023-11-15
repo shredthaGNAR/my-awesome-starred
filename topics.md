@@ -38,6 +38,7 @@
 - [config](#config)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
@@ -230,6 +231,7 @@
 
 ## android 
 
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
 - [PlutoHDDev/CrossDrop](https://github.com/PlutoHDDev/CrossDrop) - Crossdrop is a partial implementation of Google's Nearby Share in Flutter for macOS, iOS and Linux. Crossdrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
 - [moseoridev/WarpShare](https://github.com/moseoridev/WarpShare) - An Open-source AirDrop Alternative
 - [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
@@ -471,6 +473,7 @@
 
 ## bitcoin 
 
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
 - [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources) - My starter pack for people new to the bewildering world of bitcoin.
 
 ## blockchain 
@@ -524,7 +527,7 @@
 ## chrome 
 
 - [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
-- [navorite/sessionic](https://github.com/navorite/sessionic) - A web extension to save, manage and restore sessions and tabs.
+- [navorite/sessionic](https://github.com/navorite/sessionic) - A web extension to save, manage and restore sessions, windows and tabs.
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
 - [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis) - Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
@@ -575,7 +578,7 @@
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail) - A browser extension to complete your email with the help of ChatGPT
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
-- [navorite/sessionic](https://github.com/navorite/sessionic) - A web extension to save, manage and restore sessions and tabs.
+- [navorite/sessionic](https://github.com/navorite/sessionic) - A web extension to save, manage and restore sessions, windows and tabs.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis) - Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
@@ -777,6 +780,10 @@
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 
+## csharp 
+
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
+
 ## css 
 
 - [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha) - 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
@@ -957,6 +964,7 @@
 
 ## dotnet 
 
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 
@@ -1056,7 +1064,7 @@
 - [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 - [garywill/doubleclick-new-tab](https://github.com/garywill/doubleclick-new-tab) - Firefox open new tab by double clicking on tab bar , userchrome script. (Never need it since ff 68
 - [jtlw99/vicefox](https://github.com/jtlw99/vicefox) - ViceFox make your FireFox great and beter!
-- [navorite/sessionic](https://github.com/navorite/sessionic) - A web extension to save, manage and restore sessions and tabs.
+- [navorite/sessionic](https://github.com/navorite/sessionic) - A web extension to save, manage and restore sessions, windows and tabs.
 - [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox) - An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 - [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks) - My FireFox Tweaks
 - [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) - Adds on-hover tab preview to Firefox (requires CSS theme).
@@ -1663,6 +1671,7 @@
 
 ## ios 
 
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
 - [BlackJack8/iOSAdblockList](https://github.com/BlackJack8/iOSAdblockList) - Ultimate Host List for Mobile Adblockers (Focused on iOS)
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [edwin170/downr1n](https://github.com/edwin170/downr1n) - downgrade tethered checkm8 idevices ios 14, 15.
@@ -1699,6 +1708,7 @@
 
 ## javascript 
 
+- [gnonio/korporize](https://github.com/gnonio/korporize) - OCR - Object Character Recognition for any image you browse upon
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext) - Frontend code for GitHub Recommendation Extension
@@ -1871,6 +1881,7 @@
 
 ## linux 
 
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
@@ -1995,6 +2006,7 @@
 
 ## macos 
 
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
@@ -2265,6 +2277,7 @@
 
 ## monero 
 
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 
@@ -2453,6 +2466,8 @@
 
 ## others 
 
+- [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli) - 
+- [Lord-Kamina/SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift.
 - [eric-bixby/auto-sort-bookmarks-webext](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Firefox add-on to sort bookmarks by multiple criteria
 - [RichardBronosky/AppleScript-droplet](https://github.com/RichardBronosky/AppleScript-droplet) - A template for creating Droplets for Mac OS X that will pass dropped files to an embedded script
 - [acidburn0zzz/Kext-Droplet-Big-Sur](https://github.com/acidburn0zzz/Kext-Droplet-Big-Sur) - Fork of archived repository from Kext-Droplet-Big-Sur by chris1111 HMF.
@@ -4447,6 +4462,7 @@
 
 ## windows 
 
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
