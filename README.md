@@ -173,6 +173,7 @@
 
 ## C# # 
 
+- [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
@@ -1558,6 +1559,7 @@
 
 ## Others 
 
+- [BitRacer/bettertouchtool-crypto](https://github.com/BitRacer/bettertouchtool-crypto) - Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 - [shoutcool/bettertouchtool-crypto](https://github.com/shoutcool/bettertouchtool-crypto) - Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum and Lamden)
 - [glock47/bettertouchtool-crypto](https://github.com/glock47/bettertouchtool-crypto) - Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 - [krunkosaurus/bettertouchtool-crypto](https://github.com/krunkosaurus/bettertouchtool-crypto) - Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
