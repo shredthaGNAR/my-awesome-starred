@@ -787,6 +787,7 @@
 
 ## cryptocurrency 
 
+- [alichtman/Cryptocurrency-TouchBar-Display](https://github.com/alichtman/Cryptocurrency-TouchBar-Display) - Using BetterTouchTool to display cryptocurrency prices on the MacBook Pro Touch Bar
 - [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) - A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
 - [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources) - My starter pack for people new to the bewildering world of bitcoin.
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
@@ -1072,6 +1073,7 @@
 
 ## firefox 
 
+- [james-cube/firefox-bookmarks-merger](https://github.com/james-cube/firefox-bookmarks-merger) - Tool for merging firefox bookmarks backups.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [Cleod9/syncmarx-webext](https://github.com/Cleod9/syncmarx-webext) - Web extension to sync bookmarks between browsers to the cloud file host of your choice
 - [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha) - 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
@@ -2504,6 +2506,11 @@
 
 ## others 
 
+- [OceanicSquirrel/themes-for-ytmdesktop-player](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player) - If you are using the https://github.com/ytmdesktop/ytmdesktop player, you can copy these CSS files to try different color themes. (This is not affiliated with YouTube or the ytmdesktop project)
+- [soufianesakhi/youtube-playlist-helper](https://github.com/soufianesakhi/youtube-playlist-helper) - YouTube playlist editor and generator
+- [GaffaSnobb/touchbar-crypto](https://github.com/GaffaSnobb/touchbar-crypto) - Live update crypto prices on the Touch Bar.
+- [ZachAttackMLR/TouchBar-Fun](https://github.com/ZachAttackMLR/TouchBar-Fun) - Using BetterTouchTool to display things on the new MacBook Pro's touch bar
+- [doctorfree/DoctorFreeScripts](https://github.com/doctorfree/DoctorFreeScripts) - Utility Bash shell scripts I've written - typically these will run on Unix, Linux, OS X, and Cygwin
 - [BitRacer/bettertouchtool-crypto](https://github.com/BitRacer/bettertouchtool-crypto) - Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [ikiranis/PocketParser](https://github.com/ikiranis/PocketParser) - Parsing pocket bookmarks
@@ -3395,7 +3402,6 @@
 - [babldev/camera-cli](https://github.com/babldev/camera-cli) - Configure your webcam via the command line
 - [YousufSSyed/Firefox-Skin](https://github.com/YousufSSyed/Firefox-Skin) - A skin for Firefox using custom CSS
 - [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic) - A typeface for California vexillographers
-- [mjshofy/glass-morphism-ui-card-design](https://github.com/mjshofy/glass-morphism-ui-card-design) - Learn to create a glass morphism UI card using HTML and CSS easily
 - [junocomp/firefox-phosh-theme](https://github.com/junocomp/firefox-phosh-theme) - 
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [karlicoss/pockexport](https://github.com/karlicoss/pockexport) - Export/access your Pocket data, including highlights!
@@ -3514,7 +3520,7 @@
 - [arp242/MartinFox](https://github.com/arp242/MartinFox) - Really simple userChrome.css for Firefox 89 to make the active tab stand out more
 - [xarantolus/userchrome.css](https://github.com/xarantolus/userchrome.css) - Firefox Proton userChrome.css customizations
 - [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based peripheral community tool
-- [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme) - My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inklusive a special Bullet Journal css style.
+- [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme) - My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inclusive a special Bullet Journal CSS style.
 - [benji300/joplin-note-tabs](https://github.com/benji300/joplin-note-tabs) - Allows to open several notes at once in tabs and pin them.
 - [benji300/joplin-persistent-layout](https://github.com/benji300/joplin-persistent-layout) - Save editor layout (editor/split view/viewer/rich text) for each note separately.
 - [benji300/joplin-favorites](https://github.com/benji300/joplin-favorites) - Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access.
