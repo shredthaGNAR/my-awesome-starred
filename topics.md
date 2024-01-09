@@ -316,7 +316,7 @@
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
 - [apehex/awesome-poker](https://github.com/apehex/awesome-poker) - :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 - [dickreuter/Poker](https://github.com/dickreuter/Poker) - Fully functional Pokerbot that works on PartyPoker, PokerStars and GGPoker, scraping tables with Open-CV (adaptable via gui) or neural network and making decisions based on a genetic algorithm and mon
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - [IEEE ToG] An open-source Python library for poker simulations and hand evaluations
 
 ## atom 
 
@@ -676,7 +676,7 @@
 - [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title) - A Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 - [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow) - Move tab to next window browser context menu/button extension
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube & Video Extension] Enrich your experience & -choice! 🧰90 clever features📌set & forget📌Longest-standing (Please help🧩us👨‍👩‍👧‍👧) ..⋮  {playback|content discovery|player|extra buttons|dist
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube Video Web-Extension] Enrich your experience & -choice! 🧰90 clever features📌set & forget📌Longest-standing(Please help🧩us👨‍👩‍👧‍👧) ..⋮  {playback|content discovery|player|extra buttons|dis
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -921,7 +921,7 @@
 - [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL) - Framework for Multi-Agent Deep Reinforcement Learning in Poker
 - [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - [IEEE ToG] An open-source Python library for poker simulations and hand evaluations
 - [diditforlulz273/PokerRL-Omaha](https://github.com/diditforlulz273/PokerRL-Omaha) - Omaha Poker functionality+some features for PokerRL Reinforcement Learning card framwork
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX) - ReFleX - Deep Image Recognition Bot
@@ -1339,11 +1339,11 @@
 
 - [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - [IEEE ToG] An open-source Python library for poker simulations and hand evaluations
 
 ## game-development 
 
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - [IEEE ToG] An open-source Python library for poker simulations and hand evaluations
 
 ## games 
 
@@ -3974,7 +3974,7 @@
 - [meanii/Search4](https://github.com/meanii/Search4) - Search people on the Internet.
 - [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect) - A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and
 - [michaelcukier/Poker-Hand-Tracker](https://github.com/michaelcukier/Poker-Hand-Tracker) - open-source Poker hand tracker
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - [IEEE ToG] An open-source Python library for poker simulations and hand evaluations
 - [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye) - Username enumeration & reconnaisance suite
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 - [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
