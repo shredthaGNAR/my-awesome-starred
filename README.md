@@ -228,6 +228,7 @@
 
 ## CSS 
 
+- [artsyfriedchicken/EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr) - Firefox Userchrome and sidebery style
 - [deciare/firefox-css](https://github.com/deciare/firefox-css) - Customisations to Firefox via userChrome.css
 - [p3rception/GlassFox](https://github.com/p3rception/GlassFox) - // transluscent firefoxcss theme
 - [Tenica/bookMark](https://github.com/Tenica/bookMark) - A bookmark webpage built with javaScript
@@ -661,7 +662,7 @@
 
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [oxen-io/session-android](https://github.com/oxen-io/session-android) - A private messenger for Android.
-- [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with beautiful UI, features and improvements
+- [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
 - [ikiranis/PocketParser](https://github.com/ikiranis/PocketParser) - Parsing pocket bookmarks
 - [inotia00/mMicroG](https://github.com/inotia00/mMicroG) - 
 - [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
@@ -1596,6 +1597,7 @@
 
 ## Others 
 
+- [umbrae/reddit-top-2.5-million](https://github.com/umbrae/reddit-top-2.5-million) - This is a dataset of the all-time top 1,000 posts, from the top 2,500 subreddits by subscribers, pulled from reddit between August 15–20, 2013.
 - [SingularityLabs-ai/ChatGPT-Tool-List](https://github.com/SingularityLabs-ai/ChatGPT-Tool-List) - Bots To be added
 - [SKaplanOfficial/macOS-Automation-Resources](https://github.com/SKaplanOfficial/macOS-Automation-Resources) - Resources for MacOS automation languages
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
@@ -1872,6 +1874,7 @@
 
 ## Python 
 
+- [umbrae/Serendipity](https://github.com/umbrae/Serendipity) - /r/serendipity is a meta-subreddit meant to broaden the perspective of its subscribers. It takes a popular entry from a random subreddit and posts it every few hours. If you want to increase your expo
 - [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover) - When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
 - [mkirchner/pockyll](https://github.com/mkirchner/pockyll) - Create Jekyll linkposts from Pocket bookmarks
 - [kyhau/google-keep-helper](https://github.com/kyhau/google-keep-helper) - Python scripts for importing bookmarks from Pocket getpocket.com to Google Keep.
