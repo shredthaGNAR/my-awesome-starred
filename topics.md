@@ -334,7 +334,7 @@
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
 - [apehex/awesome-poker](https://github.com/apehex/awesome-poker) - :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 - [dickreuter/Poker](https://github.com/dickreuter/Poker) - Fully functional Pokerbot that works on PartyPoker, PokerStars and GGPoker, scraping tables with Open-CV (adaptable via gui) or neural network and making decisions based on a genetic algorithm and mon
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - [IEEE ToG] An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
 
 ## atom 
 
@@ -978,7 +978,7 @@
 - [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL) - Framework for Multi-Agent Deep Reinforcement Learning in Poker
 - [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - [IEEE ToG] An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
 - [diditforlulz273/PokerRL-Omaha](https://github.com/diditforlulz273/PokerRL-Omaha) - Omaha Poker functionality+some features for PokerRL Reinforcement Learning card framwork
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX) - ReFleX - Deep Image Recognition Bot
@@ -1310,7 +1310,7 @@
 - [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard) - Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
 - [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
 - [iampueroo/rComments](https://github.com/iampueroo/rComments) - Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
-- [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks
+- [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
 - [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close) - Firefox close tab by right clicking on tab button ,userchrome script (runs on ff115) 🖱️
 - [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list) - A Chrome/Firefox extension for saving pages to read later.
@@ -1410,11 +1410,11 @@
 
 - [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - [IEEE ToG] An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
 
 ## game-development 
 
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - [IEEE ToG] An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
 
 ## games 
 
@@ -1443,7 +1443,7 @@
 
 ## github 
 
-- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username.
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [gorse-io/gitrec](https://github.com/gorse-io/gitrec) - A recommender system for GitHub repositories based on Gorse
@@ -1486,7 +1486,7 @@
 
 ## github-api 
 
-- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username.
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List) - Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
 
@@ -1600,7 +1600,7 @@
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
-- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username.
 - [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
 - [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
 - [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
@@ -2629,6 +2629,11 @@
 
 ## others 
 
+- [drcika/apc-extension](https://github.com/drcika/apc-extension) - 
+- [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle) - Logi Circle Home Assistant component
+- [asilvas/circler](https://github.com/asilvas/circler) - (non-official) Logitech Circle utility application (download etc)
+- [robilic/DockHand](https://github.com/robilic/DockHand) - Window preview feature similar to 'Aero Peek' for the Mac OS dock
+- [AlexVallat/firefox-scripts](https://github.com/AlexVallat/firefox-scripts) - userChromeJS / autoconfig.js and extensions
 - [agentcooper/apple-notes-bookmarklet](https://github.com/agentcooper/apple-notes-bookmarklet) - Bookmarklet for saving selected text to Apple Notes
 - [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server) - AirMessage's native message relay server for Mac
 - [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader) - REST API File Uploader
@@ -3102,7 +3107,6 @@
 - [JackGruber/joplin-plugin-tagging](https://github.com/JackGruber/joplin-plugin-tagging) - Plugin to extend the Joplin tagging menu with a copy all tags and tagging dialog with more control.
 - [Magisk-Modules-Repo/MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf) - This tool is now dead...
 - [k08045kk/CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl) - 
-- [qsniyg/maxurl](https://github.com/qsniyg/maxurl) - Finds larger/original versions of images and videos
 - [SichangHe/BetterTouchTool-SLite-Preset](https://github.com/SichangHe/BetterTouchTool-SLite-Preset) - SLite is a preset of BetterTouchTool inspired by GoldenChaos and many other presets. It is a light preset that is also neat. Try it and you'll know.
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [Tampermonkey/tamperdav](https://github.com/Tampermonkey/tamperdav) - A WebDAV-like server to sync Tampermonkey scripts and edit them with an external editor
@@ -3161,7 +3165,6 @@
 - [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
 - [gietema/bookmarks](https://github.com/gietema/bookmarks) - Script that syncs pocket to my bookmarks page
 - [last-arg/bookmark_with_pocket](https://github.com/last-arg/bookmark_with_pocket) - Browser extension that adds bookmark to Pocket if rules allow it
-- [JeanDavidDaviet/Pocket-Export](https://github.com/JeanDavidDaviet/Pocket-Export) - 
 - [knowfox/pocket](https://github.com/knowfox/pocket) - Knowfox: Retrieve bookmarks from getpocket.com
 - [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep) - Copy bookmarks from Google Keep into Pocket/Instapaper
 - [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper) - 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
@@ -3789,7 +3792,7 @@
 - [Soft-Bred/Firefox-Customisation](https://github.com/Soft-Bred/Firefox-Customisation) - 
 - [LRDN/firefox-proton-custom](https://github.com/LRDN/firefox-proton-custom) - Firefox default theme customization that replaces the floating tabs with a more conventional, cleaner interface.
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
-- [EnderDev/browser-chrome-experiment](https://github.com/EnderDev/browser-chrome-experiment) - 
+- [kierandrewett/browser-chrome-experiment](https://github.com/kierandrewett/browser-chrome-experiment) - 
 - [bolucat/Firefox](https://github.com/bolucat/Firefox) - The Source Code of Firefox on Desktop
 - [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles) - 
 - [metux/thunderbird-2](https://github.com/metux/thunderbird-2) - thunderbird 2nd try ... v68.0
@@ -3797,7 +3800,6 @@
 - [ago1024/userchrome](https://github.com/ago1024/userchrome) - BEcuase F'
 - [slysherz/vscode-comment-box](https://github.com/slysherz/vscode-comment-box) - Extension that transforms lines of text into a pretty comment box.
 - [FirefoxUX/icons](https://github.com/FirefoxUX/icons) - SVG icons used in Firefox. View all icons here:
-- [iocave/customize-ui](https://github.com/iocave/customize-ui) - UI Customization plugin for vscode
 - [nbennett320/define-firefox](https://github.com/nbennett320/define-firefox) - A quick dictionary and thesaurus.
 - [pgrimaud/shopify-snippets](https://github.com/pgrimaud/shopify-snippets) - Useful .liquid snippets for Shopify themes
 - [killalau/vscode-liquid-snippets](https://github.com/killalau/vscode-liquid-snippets) - Shopify Liquid Template Snippets
@@ -4138,7 +4140,7 @@
 - [meanii/Search4](https://github.com/meanii/Search4) - Search people on the Internet.
 - [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect) - A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and
 - [michaelcukier/Poker-Hand-Tracker](https://github.com/michaelcukier/Poker-Hand-Tracker) - open-source Poker hand tracker
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - [IEEE ToG] An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
 - [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye) - Username enumeration & reconnaisance suite
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 - [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
@@ -4777,12 +4779,14 @@
 
 ## website 
 
+- [qsniyg/maxurl](https://github.com/qsniyg/maxurl) - Finds larger/original versions of images and videos
 - [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever) - Bookmarks, Snippets and Notes Manager for Developers & Co (website)
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 
 ## windows 
 
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - DNS blocklists formulated to block ads, trackers, malicious domains, and more! Updated on weekdays, and compatible with AdGuard Home, Pi-Hole, uBlock Origin, AdBlock, AdBlock Plus, AdGuard for Windows
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
