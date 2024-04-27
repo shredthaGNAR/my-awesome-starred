@@ -482,6 +482,7 @@
 
 ## bash 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush) - The all in one AirMessage (iMessage) script you can forget about
 - [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2) - A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
@@ -766,6 +767,7 @@
 
 ## cli 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [mifi/ezshare](https://github.com/mifi/ezshare) - Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
@@ -1529,7 +1531,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder
 - [Shopify/themekit](https://github.com/Shopify/themekit) - Shopify theme development command line tool.
 
@@ -1555,7 +1557,7 @@
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [ScreenStaring/shopify_id_export](https://github.com/ScreenStaring/shopify_id_export) - Export Shopify product and variant IDs —along with other identifiers— to a CSV or JSON file
 
@@ -1630,6 +1632,7 @@
 
 ## hacktoberfest 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
@@ -2046,6 +2049,7 @@
 
 ## linux 
 
+- [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
@@ -2109,6 +2113,7 @@
 
 ## mac 
 
+- [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [alienator88/McBrew](https://github.com/alienator88/McBrew) - A fast GUI for Homebrew written in SwiftUI
 - [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
@@ -2173,6 +2178,7 @@
 
 ## macos 
 
+- [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - A macOS app for interacting with the Ollama models
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [d0sse/macFox-theme](https://github.com/d0sse/macFox-theme) - macOS minimalistic theme for firefox
@@ -2673,6 +2679,10 @@
 
 ## others 
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [64characters/Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac
+- [AlexPerathoner/Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions
+- [UserNombre/firefox-tag-search](https://github.com/UserNombre/firefox-tag-search) - Add a bookmark tag search sidebar to Firefox
 - [dayanch96/YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 - [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama) - 
 - [andersrex/notesollama](https://github.com/andersrex/notesollama) - Use Ollama to talk to local LLMs in Apple Notes
@@ -3296,7 +3306,7 @@
 - [onury/alfred-video-downloader](https://github.com/onury/alfred-video-downloader) - Video Downloader is an Alfred workflow written in Bash/Shell for easily downloading videos (and/or extracting audio) from various websites such as YouTube, Vimeo, DailyMotion and more...
 - [jenslys/alfred-youtube-downloader](https://github.com/jenslys/alfred-youtube-downloader) - Alfred Workflow to download YouTube videos
 - [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io) - 
-- [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+- [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork](https://github.com/aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork) - 
 - [abbeycode/AppleScripts](https://github.com/abbeycode/AppleScripts) - My collection of scripts I've written over the years
 - [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content) - List all the files in a GitHub repo’s directory
@@ -3593,7 +3603,7 @@
 - [Wingtwz/Window-Title-Hider](https://github.com/Wingtwz/Window-Title-Hider) - Webextension that hides the current tab title from the window shown on the task bar (shows browser name first)
 - [kukawski/Open-in-selected-Incognito-window](https://github.com/kukawski/Open-in-selected-Incognito-window) - Firefox extension that allows to open link in selected incognito window from context menu
 - [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow) - Alfred workflow to search google drive
-- [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset) - BetterTouchTool Window Manager Preset
+- [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset) - Simple and powerful BetterTouchTool Window Manager Preset
 - [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position in OSX
 - [mr-feek/global-poker-hand-history-converter](https://github.com/mr-feek/global-poker-hand-history-converter) - :spades: :clubs: Convert Global Poker hand histories to PokerStars format :hearts: :diamonds:
 - [yinthewind/GlobalPokerHandTracker](https://github.com/yinthewind/GlobalPokerHandTracker) - 
@@ -4047,6 +4057,7 @@
 
 ## penetration-testing 
 
+- [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler) - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting informat
 - [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
 
 ## pentesting 
@@ -4083,6 +4094,7 @@
 
 ## powershell 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp) - PowerShell scripts and snips for the learning curve.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -4384,6 +4396,7 @@
 
 ## rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
@@ -4475,6 +4488,7 @@
 
 ## shell 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
