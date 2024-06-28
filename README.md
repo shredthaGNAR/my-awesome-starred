@@ -525,7 +525,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [ChingizAdamov/Pocket-Bot](https://github.com/ChingizAdamov/Pocket-Bot) - Pocket bot for saving your favourite links
 - [An0nUD4Y/evilginx2](https://github.com/An0nUD4Y/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -758,7 +758,7 @@
 - [igorlogius/limit-active-tabs](https://github.com/igorlogius/limit-active-tabs) - Limits the number of active tabs by unloading older tabs
 - [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
 - [tim-we/inspector-extension](https://github.com/tim-we/inspector-extension) - Inspect extensions with web-ext-inspector
-- [monyxie/qr-lite](https://github.com/monyxie/qr-lite) - A Firefox addon for generating and scanning QR codes.
+- [monyxie/qr-lite](https://github.com/monyxie/qr-lite) - A browser extension for generating and scanning QR codes.
 - [belaviyo/keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper) - A helper extension to use KeePass/MacPass/KeePassXC from Firefox, Opera, and Chrome browsers
 - [wildskyf/tab-notes](https://github.com/wildskyf/tab-notes) - Browser Add-on: Allow you to write anything in new tab
 - [bobbyrne01/save-text-to-file-firefox](https://github.com/bobbyrne01/save-text-to-file-firefox) - Firefox addon that saves highlighted text to a file.
@@ -803,7 +803,7 @@
 - [MattRuetz/bookmark-app](https://github.com/MattRuetz/bookmark-app) - Simple webpage to store bookmarks using localStorage. Flexible and simple UI using CSS variables and animations.
 - [wkocjan/gatsby-theme-intro](https://github.com/wkocjan/gatsby-theme-intro) - Personal branding theme for developers
 - [Cleod9/syncmarx-webext](https://github.com/Cleod9/syncmarx-webext) - Web extension to sync bookmarks between browsers to the cloud file host of your choice
-- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code extensions in the official PopClip Extensions directory.
+- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code for extensions in the official PopClip Extensions directory.
 - [gnonio/korporize](https://github.com/gnonio/korporize) - OCR - Object Character Recognition for any image you browse upon
 - [eric-bixby/auto-sort-bookmarks-webext](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Firefox add-on to sort bookmarks by multiple criteria
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
@@ -820,7 +820,6 @@
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Adds AI to DuckDuckGo. Ask from any site. Powered by GPT-4o!
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing) - UserChrome JS script to remap Firefox's Private Browsing to match everything else
@@ -1560,7 +1559,6 @@
 
 ## Logos 
 
-- [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [haoict/reddit-no-ads](https://github.com/haoict/reddit-no-ads) - Tweak to remove "Promoted" post on Reddit app for iOS!
 
@@ -2001,6 +1999,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients) - Aesthetic gradients extension for web ui
 - [dartagnanjacobson/global_poker_scraper](https://github.com/dartagnanjacobson/global_poker_scraper) - Global Poker Hand History Scraper
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Adds AI to DuckDuckGo. Ask from any site. Powered by GPT-4o!
 - [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 - [InQuest/omnibus](https://github.com/InQuest/omnibus) - The OSINT Omnibus (beta release)
 - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
@@ -2510,6 +2509,7 @@
 
 ## Swift 
 
+- [psugihara/FreeChat](https://github.com/psugihara/FreeChat) - llama.cpp based AI chat app for macOS
 - [64characters/Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac
 - [AlexPerathoner/Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions
 - [andersrex/notesollama](https://github.com/andersrex/notesollama) - Use Ollama to talk to local LLMs in Apple Notes
