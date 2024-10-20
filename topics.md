@@ -264,7 +264,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
-- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions to enhance your web experience
+- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Adds AI to DuckDuckGo. Ask from any site. Powered by GPT-4o!
@@ -650,7 +650,7 @@
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
-- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions to enhance your web experience
+- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Adds AI to DuckDuckGo. Ask from any site. Powered by GPT-4o!
@@ -691,7 +691,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
-- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions to enhance your web experience
+- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT, Claude, and other LLMs
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1803,7 +1803,7 @@
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
-- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions to enhance your web experience
+- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions
 - [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader) - Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
 - [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative) - A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
@@ -2168,7 +2168,7 @@
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [gnonio/korporize](https://github.com/gnonio/korporize) - OCR - Object Character Recognition for any image you browse upon
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
-- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions to enhance your web experience
+- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions
 - [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext) - Frontend code for GitHub Recommendation Extension
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Adds AI to DuckDuckGo. Ask from any site. Powered by GPT-4o!
@@ -2507,7 +2507,7 @@
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
-- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions to enhance your web experience
+- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Adds AI to DuckDuckGo. Ask from any site. Powered by GPT-4o!
 - [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
@@ -2910,7 +2910,7 @@
 
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
-- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions to enhance your web experience
+- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Adds AI to DuckDuckGo. Ask from any site. Powered by GPT-4o!
@@ -3045,7 +3045,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
-- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions to enhance your web experience
+- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT, Claude, and other LLMs
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
