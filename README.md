@@ -842,7 +842,7 @@
 - [freaktechnik/notification-sounds](https://github.com/freaktechnik/notification-sounds) - Makes a sound when a notification is shown
 - [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io) - UserChromeFiles, Webextensions Experiments
 - [igorlogius/select-tabs-ext](https://github.com/igorlogius/select-tabs-ext) - Powerful tab selection addon with a bunch of one click options but also allow the user to create custom selection rules
-- [igorlogius/copy-link-extras](https://github.com/igorlogius/copy-link-extras) - Add extra copy functions to links. Works with single or muliple links in a selection.
+- [igorlogius/link-extras](https://github.com/igorlogius/link-extras) - Add extra copy functions to links. Works with single or muliple links in a selection.
 - [igorlogius/import-urls](https://github.com/igorlogius/import-urls) - Import URLs from the clipboard or a text file as tabs or bookmarks
 - [igorlogius/limit-active-tabs](https://github.com/igorlogius/limit-active-tabs) - Limits the number of active tabs by unloading older tabs
 - [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
