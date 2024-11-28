@@ -1108,7 +1108,7 @@
 - [Andereoo/Cortland](https://github.com/Andereoo/Cortland) - A sleek, modern, macOS-inspired theme for Firefox
 - [Rasmagoric/Firefox2022](https://github.com/Rasmagoric/Firefox2022) - A new look for your Firefox browser.
 - [TwisterMc/moz-mac](https://github.com/TwisterMc/moz-mac) - Translucent Mac Firefox Theme
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome styleshee
 - [1280px/rainfox](https://github.com/1280px/rainfox) - Photon UI, re-imagined.
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
@@ -1591,7 +1591,7 @@
 - [TwisterMc/moz-mac](https://github.com/TwisterMc/moz-mac) - Translucent Mac Firefox Theme
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig) - Firefox privacy configuration (help + user.js)
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome styleshee
 - [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis) - Bringing sexy curves back to Firefox Photon.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
