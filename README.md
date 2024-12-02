@@ -265,7 +265,7 @@
 - [shredthaGNAR/shredthaGNAR.github.io](https://github.com/shredthaGNAR/shredthaGNAR.github.io) - Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 - [Skyflash/skyflash.github.io](https://github.com/Skyflash/skyflash.github.io) - 🎨 My personal website
 - [BrancuAlexandru/ShyFoxBorderless](https://github.com/BrancuAlexandru/ShyFoxBorderless) - A very shy little theme that hides the entire browser interface. Now without borders!
-- [Tanvir1337x/firefox-config](https://github.com/Tanvir1337x/firefox-config) - Personal Firefox Browser Configuration
+- [Tanvir1337x/firefox-config](https://github.com/Tanvir1337x/firefox-config) - Personal Firefox (Firefox-ESR) Browser Configuration
 - [EvanKirshenbaum/CustomCSSforFx](https://github.com/EvanKirshenbaum/CustomCSSforFx) - Custom CSS tweaks for Firefox Quantum (57+)
 - [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 - [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
@@ -844,7 +844,7 @@
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 - [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2) - This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explor
 - [ffoodd/a11y.css-webextension](https://github.com/ffoodd/a11y.css-webextension) - a11y.css webextension repository — for both Chromium and Firefox
-- [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
+- [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE. No API Key required!
 - [cat-in-136/firefox-prefjs-surveyer](https://github.com/cat-in-136/firefox-prefjs-surveyer) - A quick-and-dirty tool of Firefox pref.js survey
 - [abhn/Bookmarks-For-Obsidian](https://github.com/abhn/Bookmarks-For-Obsidian) - Firefox add-on to add current tab URL and title to markdown files 🔥🦊
 - [tsaost/autoload-temporary-addon](https://github.com/tsaost/autoload-temporary-addon) - Automatically load temporary addons from a local directory when Firefox starts
