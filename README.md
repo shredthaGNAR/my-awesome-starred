@@ -308,7 +308,7 @@
 - [kerichdev/themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player) - Youtube Music CSS themes to apply with any injector.
 - [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
 - [robotcorner/joplin-theme-dark-gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox) - Inspired by "Mayukai Mirage Gruvbox Darktooth Theme" on VSCode
-- [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
+- [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [loup-brun/buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons.
 - [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme) - My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
 - [dyu/bookmarks](https://github.com/dyu/bookmarks) - a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
@@ -528,6 +528,7 @@
 
 ## Dart 
 
+- [madari-media/madari-oss](https://github.com/madari-media/madari-oss) - Open source media manager
 - [cake-tech/cupcake](https://github.com/cake-tech/cupcake) - 
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [YarosMallorca/adobe_deactivation_bypass](https://github.com/YarosMallorca/adobe_deactivation_bypass) - A CLI tool to bypass Adobe's deactivation prompt
@@ -656,7 +657,7 @@
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
@@ -2559,7 +2560,7 @@
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
 - [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes) - Open macOS Settings Panes from list
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 370 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice) - Send SMS regularly through Python to keep Google Voice active
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [msikma/osx-folder-icons](https://github.com/msikma/osx-folder-icons) - Colorful folder icons for macOS to help you organize your projects
