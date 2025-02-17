@@ -1826,6 +1826,7 @@
 - [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT) - Tool build YouTube revanced mods auto.
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - The AIO Firebog Blocklists is a collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, o
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - [Discontinued] Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 - [umbrae/reddit-top-2.5-million](https://github.com/umbrae/reddit-top-2.5-million) - This is a dataset of the all-time top 1,000 posts, from the top 2,500 subreddits by subscribers, pulled from reddit between August 15–20, 2013.
@@ -2152,7 +2153,6 @@
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - The AIO Firebog Blocklists is a collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, o
 - [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle) - Logi Circle Home Assistant component
 - [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader) - REST API File Uploader
 - [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
@@ -2212,7 +2212,7 @@
 - [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults) - All my default config stuff for mac
-- [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl. Repository for code, feature requests and bug reports.
+- [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow) - Search, open and make notes from Alfred 5 in Notable 📓
 - [ewpratten/youtube_ad_blocklist](https://github.com/ewpratten/youtube_ad_blocklist) - This is an open project to maintain a list of domain names that serve YouTube ads
