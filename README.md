@@ -221,6 +221,7 @@
 
 ## C++ 
 
+- [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5) - 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
@@ -252,7 +253,7 @@
 - [cj1128/alfred-qrcode-workflow](https://github.com/cj1128/alfred-qrcode-workflow) - 🎉 Generate/Scan QR Code on the fly
 - [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
-- [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App) - Windscribe 2.0 desktop client for Windows, Mac and Linux
+- [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App) - Windscribe VPN desktop client for Windows, Mac and Linux
 - [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce) - Paragon Firewall for Mac
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
@@ -299,7 +300,6 @@
 - [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox) - Beautiful design for firefox new tab
 - [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme) - CV theme for Astro 🚀
 - [d0sse/macFox-theme](https://github.com/d0sse/macFox-theme) - macOS safari style minimalistic theme for firefox
-- [network-alchemist/MacosVibrant](https://github.com/network-alchemist/MacosVibrant) - 
 - [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [vincens2005/GentleFox](https://github.com/vincens2005/GentleFox) - A Firefox theme, which features gentle curves, transparency and a minimal interface.
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
@@ -429,7 +429,6 @@
 - [tessus/joplin-custom-css](https://github.com/tessus/joplin-custom-css) - 📝 My custom styles for Joplin, the open source note taking app
 - [geoai777/joplin_styles](https://github.com/geoai777/joplin_styles) - CSS tweaks for joplin app
 - [hrqmonteiro/joplin-theme](https://github.com/hrqmonteiro/joplin-theme) - My Joplin theme files, including userchrome.css and userstyles.css, as well as some markdown templates for my notes.
-- [crowdproperty/EmailSignatureMachine](https://github.com/crowdproperty/EmailSignatureMachine) - You here to make some email signatures
 - [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme) - My Joplin App userstyle and userchrome theme style.
 - [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme) - Just another dark theme
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
@@ -586,7 +585,7 @@
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
 - [ChingizAdamov/Pocket-Bot](https://github.com/ChingizAdamov/Pocket-Bot) - Pocket bot for saving your favourite links
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -748,6 +747,7 @@
 - [ryanoasis/email-signature](https://github.com/ryanoasis/email-signature) - My E-mail Signature
 - [bappygazi/MR.kirof-email-signature](https://github.com/bappygazi/MR.kirof-email-signature) - 
 - [DevNurAlam/ClickableEmailSignatureDesign-2](https://github.com/DevNurAlam/ClickableEmailSignatureDesign-2) - 
+- [crowdproperty/EmailSignatureMachine](https://github.com/crowdproperty/EmailSignatureMachine) - You here to make some email signatures
 - [bluginbuhl/email-signatures](https://github.com/bluginbuhl/email-signatures) - Custom HTML/CSS e-mail signatures for Gmail
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
 - [maizzle/starter-gradients](https://github.com/maizzle/starter-gradients) - Use CSS background gradients in HTML emails, with VML fallback for Outlook.
@@ -927,7 +927,7 @@
 - [Lej77/tab-count-in-window-title](https://github.com/Lej77/tab-count-in-window-title) - 
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI chat and search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Add AI chat & search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
 - [ColdSpirit0/FastCopyLinks](https://github.com/ColdSpirit0/FastCopyLinks) - Firefox addon, copies hovered links on Ctrl+C.
 - [MethodGrab/firefox-google-search-by-image](https://github.com/MethodGrab/firefox-google-search-by-image) - A Firefox extension that adds Google’s "search by image" to the browser context menu
 - [igorlogius/bookmark-tabs](https://github.com/igorlogius/bookmark-tabs) - Saves selected or all tabs into a timestamped bookmark folder for later use
@@ -951,7 +951,7 @@
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Adds AI to DuckDuckGo. Ask from any site. Powered by GPT-4o!
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs like GPT-4o!
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing) - UserChrome JS script to remap Firefox's Private Browsing to match everything else
@@ -1568,7 +1568,7 @@
 - [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig) - Firefox privacy configuration (help + user.js)
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome styleshee
-- [universalbyte/Superfox](https://github.com/universalbyte/Superfox) - Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 700+ privacy features !
+- [universalbyte/Superfox](https://github.com/universalbyte/Superfox) - Stop Firefox from sending "ALL YOUR PRIVATE DATA" to MOZILLA , GOOGLE and other Servers. 800+ privacy features !
 - [thunderbird/webext-examples](https://github.com/thunderbird/webext-examples) - Example extensions for Thunderbird WebExtensions APIs
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [thunderbird-conversations/thunderbird-conversations](https://github.com/thunderbird-conversations/thunderbird-conversations) - An extension for Thunderbird that allows you to view threads as "real" conversations, including your own emails. This extension also adds a bunch of useful UI features in the conversation view.
@@ -1860,7 +1860,6 @@
 - [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT) - Tool build YouTube revanced mods auto.
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for 
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - [Discontinued] Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 - [umbrae/reddit-top-2.5-million](https://github.com/umbrae/reddit-top-2.5-million) - This is a dataset of the all-time top 1,000 posts, from the top 2,500 subreddits by subscribers, pulled from reddit between August 15–20, 2013.
@@ -2111,7 +2110,7 @@
 ## Perl 
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [kal247/App-bookmarks](https://github.com/kal247/App-bookmarks) - Export bookmarks from browsers and files
+- [kal247/App-bookmarks](https://github.com/kal247/App-bookmarks) - Export bookmarks from browsers and files to plain text, CSV or HTML.
 - [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight YouTube client for Linux
 - [ryosama/mbox_spliter](https://github.com/ryosama/mbox_spliter) - Split large mbox files (from hunderbird) into smaller one, class by year of the message
 - [marchyman/GeoTag](https://github.com/marchyman/GeoTag) - Image geo location editing for macOS Ventura (13) and later.  Instructions and a .dmg of the current version are on the application home page.
@@ -2174,7 +2173,7 @@
 - [CryptoMonkey21/gpt4free](https://github.com/CryptoMonkey21/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) - An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - My personal prompt library for various LLMs + scripts & tools. Suitable for models from Deepseek, OpenAI, Claude, Meta, Mistral, Google, Grok, and others.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Comprehensive prompt library for various LLMs + scripts & tools. Suitable for models from Deepseek, OpenAI, Claude, Meta, Mistral, Google, Grok, and others.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -2196,6 +2195,7 @@
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for 
 - [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle) - Logi Circle Home Assistant component
 - [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader) - REST API File Uploader
 - [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
@@ -2551,7 +2551,7 @@
 - [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock) - 🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
-- [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric password manager
+- [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
 - [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT) - 
@@ -2965,7 +2965,7 @@
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [alexmdodge/github-diff-explorer](https://github.com/alexmdodge/github-diff-explorer) - The GitHub Diff Explorer is a Chrome/Firefox extension that generates a seamless file explorer with a minimalist focus.
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [samueldobbie/remarkable-extension](https://github.com/samueldobbie/remarkable-extension) - Keep your bookmarks clean & up-to-date 🔄
@@ -3021,7 +3021,7 @@
 - [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
 - [JackGruber/joplin-plugin-tagging](https://github.com/JackGruber/joplin-plugin-tagging) - Plugin to extend the Joplin tagging menu with a copy all tags and tagging dialog with more control.
 - [htrinter/Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs) - Browser extension for opening lists of URLs built with Vue.js on top of WebExtension with cross-browser support
-- [timche/meru](https://github.com/timche/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
+- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [elgervb/chrome-readinglist2](https://github.com/elgervb/chrome-readinglist2) - 
 - [XcrossD/read-later-bookmarks](https://github.com/XcrossD/read-later-bookmarks) - A chrome extension that add a read later view for chrome bookmarks
