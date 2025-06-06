@@ -580,7 +580,7 @@
 - [missuo/raycast2api](https://github.com/missuo/raycast2api) - Relay your Raycast AI to an OpenAI compatible API endpoint
 - [pyrooka/playerfm-downloader](https://github.com/pyrooka/playerfm-downloader) - Simple tool written for my colleague. Download list of mp3-s from the given playerfm URL.
 - [shinshin86/take-out-pocket-csv](https://github.com/shinshin86/take-out-pocket-csv) - A tool to convert Pocket export HTML to CSV. For data where the page title is still the URL, the page title is obtained again at the time of conversion.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [crhuber/pocket-exporter](https://github.com/crhuber/pocket-exporter) - Export your Pocket archive to file
 - [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter) - Command line tool that allows to export your Pocket articles in a json file.
 - [fedragon/bookmarkd](https://github.com/fedragon/bookmarkd) - Stores HTML pages as Markdown files in an Obsidian vault
@@ -947,7 +947,7 @@
 - [gnonio/korporize](https://github.com/gnonio/korporize) - OCR - Object Character Recognition for any image you browse upon
 - [eric-bixby/auto-sort-bookmarks-webext](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Firefox add-on to sort bookmarks by multiple criteria
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
-- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
+- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
@@ -1224,7 +1224,6 @@
 - [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server) - This is the sync server for better-onetab. Please don't submit PR to master directly.
 - [trockerapp/trocker](https://github.com/trockerapp/trocker) - This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
 - [nekoramuza/tabsaver](https://github.com/nekoramuza/tabsaver) - Allows you to easily save all of your tabs for later use, reducing clutter
-- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 - [coder-chenzhi/EasyTabURL-ChromeExtension](https://github.com/coder-chenzhi/EasyTabURL-ChromeExtension) - Help you operate tabs' url more conveniently
 - [wantora/multiple-paste-and-go-button](https://github.com/wantora/multiple-paste-and-go-button) - This add-on provides a button to open multiple URLs from clipboard.
@@ -1819,6 +1818,7 @@
 
 ## Others 
 
+- [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos) - Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher.
 - [brianpetro/smart-connect](https://github.com/brianpetro/smart-connect) - 
 - [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT) - Tool build YouTube revanced mods auto.
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
@@ -2156,6 +2156,8 @@
 
 ## Python 
 
+- [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [benstonezhang/adobe-packager](https://github.com/benstonezhang/adobe-packager) - Script that allows to download portable installers of different versions Adobe software
 - [marph91/jimmy](https://github.com/marph91/jimmy) - Convert your notes to Markdown
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
@@ -2493,6 +2495,7 @@
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [danielmiessler/geoip](https://github.com/danielmiessler/geoip) - A Ruby script that takes in IPs and returns Country, State, and City
 - [alfredapp/google-drive-workflow](https://github.com/alfredapp/google-drive-workflow) - Alfred Workflow for Google Drive
+- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [JT5D/AppleTree](https://github.com/JT5D/AppleTree) - Applescripts, apps, services, droplets, actions & automator workflows grow abudant on this Apple Tree, some fruit made by me, while many come from Web tuts & altruist worker bees
 - [raleycs/alfred-ytsuggest](https://github.com/raleycs/alfred-ytsuggest) - Alfred Workflow to get search suggestions from YouTube.
 - [andyw8/pocket-ruby](https://github.com/andyw8/pocket-ruby) - Ruby wrapper for the Pocket REST and Search APIs
@@ -2688,7 +2691,6 @@
 - [danielmiessler/GeoHarvest](https://github.com/danielmiessler/GeoHarvest) - A simple script for translating IP addresses to GeoLocations
 - [danielmiessler/HoneyCredIPTracker](https://github.com/danielmiessler/HoneyCredIPTracker) - Quick script to gather stats on incoming credentials and IPs for a honey listener.
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
-- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [edgarjs/github-repos-alfred-workflow](https://github.com/edgarjs/github-repos-alfred-workflow) - Alfred workflow to easily open GitHub repositories
 - [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows) - A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 actions
 - [onury/alfred-video-downloader](https://github.com/onury/alfred-video-downloader) - Video Downloader is an Alfred workflow written in Bash/Shell for easily downloading videos (and/or extracting audio) from various websites such as YouTube, Vimeo, DailyMotion and more...
@@ -2770,7 +2772,7 @@
 - [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [shubhambatra3019/macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - A macOS app for organizing folders
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
-- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
+- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
 - [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp) - Batch Clipboard is a Mac app let's you copy then paste multiple clipboard items at a time, like magic! (Cleepp was its codename during pre-release). Libre & gratis.
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/cre
@@ -3075,6 +3077,7 @@
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
+- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix) - Text utilities for multiple code editors
 - [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups) - (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
 - [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets) - 📝 A React Hook for getting data from Google Sheets API v4
@@ -3118,7 +3121,7 @@
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based community tool
 - [benji300/joplin-note-tabs](https://github.com/benji300/joplin-note-tabs) - Allows to open several notes at once in tabs and pin them.
 - [benji300/joplin-persistent-layout](https://github.com/benji300/joplin-persistent-layout) - Save editor layout (editor/split view/viewer/rich text) for each note separately.
