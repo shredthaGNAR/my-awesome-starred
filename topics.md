@@ -313,7 +313,7 @@
 - [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
-- [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora) - The only link utility app you need for Android, now available on desktop.
+- [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora) - The ultimate link organizer for Android, now available on desktop with self-hosted sync.
 - [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
@@ -951,7 +951,7 @@
 - [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title) - A Chrome/Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 - [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow) - Move tab to next window browser context menu/button extension
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰200+ options, clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ext
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -1747,7 +1747,6 @@
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [ohmybahgosh/FONTS_DOT_COM_RIPPER](https://github.com/ohmybahgosh/FONTS_DOT_COM_RIPPER) - Script to extract entire font families from Fonts.com, rips them as woff2 and final output includes woff2 and ttf files
-- [g-cqd/Fonts](https://github.com/g-cqd/Fonts) - A curation of fonts from all over the world.
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
@@ -3343,6 +3342,7 @@
 
 ## others 
 
+- [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
 - [psbarrales/LLM-automator](https://github.com/psbarrales/LLM-automator) - Create keyboard shortcuts for an LLM using OpenAI GPT, Ollama, HuggingFace with Automator on macOS.
 - [LudWittg/Pocket-exporter](https://github.com/LudWittg/Pocket-exporter) - A simple export utility for Pocket articles
 - [torerobo/maigret](https://github.com/torerobo/maigret) - Collect a dossier on a person by username from a huge number of sites
@@ -3429,7 +3429,7 @@
 - [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio) - Local add-on manager for Stremio
 - [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal website/landing page template.
 - [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android) - Official documentation for the SmarterBookmarks android app
-- [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
+- [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid services into a single, easily configurable addon. It allows highly customisable filtering, sorting, and formatting of results and supports p
 - [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager) - Manage your Stremio Addons
 - [bpc-clone/bpc_firefox_support](https://github.com/bpc-clone/bpc_firefox_support) - 
@@ -3774,7 +3774,7 @@
 - [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart) - A bare-bones Astro template to get you deployed to Netlify fast!
 - [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket) - This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
 - [darktrojan/openwith](https://github.com/darktrojan/openwith) - Open With add-on for Firefox
-- [wafflesnatcha/AppleScripts](https://github.com/wafflesnatcha/AppleScripts) - ~/Library/Scripts
+- [buchanansc/AppleScripts](https://github.com/buchanansc/AppleScripts) - ~/Library/Scripts
 - [tangphillip/Imgur-Uploader](https://github.com/tangphillip/Imgur-Uploader) - A script that uploads an image to imgur and copies the image URL to the clipboard.
 - [miguelmartin75/imgur-automator](https://github.com/miguelmartin75/imgur-automator) - automator files to upload images and screenshots to imgur.
 - [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
@@ -5054,7 +5054,7 @@
 - [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix) - My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰200+ options, clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ext
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager) - Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
