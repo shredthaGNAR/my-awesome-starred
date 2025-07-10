@@ -960,6 +960,7 @@
 - [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
+- [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX) - A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [brian-girko/bookmarks-commander](https://github.com/brian-girko/bookmarks-commander) - A two-panel bookmarks manager which is similar to the well-known Total Commander.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
@@ -3554,7 +3555,7 @@
 - [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews) - Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
 - [vionya/custom-search-engines](https://github.com/vionya/custom-search-engines) - 
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025).
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
@@ -4584,7 +4585,6 @@
 - [ScanuNicco/Modern-ThunderBird](https://github.com/ScanuNicco/Modern-ThunderBird) - A userChrome.css theme to make thunderbird resemble Firefox 89+
 - [crssi/Firefox](https://github.com/crssi/Firefox) - 
 - [tangledhelix/toggleAirport](https://github.com/tangledhelix/toggleAirport) - Toggle Airport power based on presence of wired ethernet
-- [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX) - A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
 - [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
 - [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 - [uBlockO/uBO-Scriptlets](https://github.com/uBlockO/uBO-Scriptlets) - A custom arsenal of scriptlets to be used for injecting userscripts via uBlock Origin.
@@ -4707,7 +4707,7 @@
 - [estelle/CSS3Gradients](https://github.com/estelle/CSS3Gradients) - Library of CSS3 Gradients
 - [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients) - An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
 - [maizzle/starter-gradients](https://github.com/maizzle/starter-gradients) - Use CSS background gradients in HTML emails, with VML fallback for Outlook.
-- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - DEPRECATED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
 - [bpwned/protovibrant](https://github.com/bpwned/protovibrant) - 
 - [gmardom/firefox-mods](https://github.com/gmardom/firefox-mods) - 
 - [NiBa97/firefox-css-custom](https://github.com/NiBa97/firefox-css-custom) - A modified version of Andreas Grafen's "ag-proton" design for firefox
@@ -5872,6 +5872,7 @@
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [byeolbit/translucent](https://github.com/byeolbit/translucent) - Translucent plastic card theme.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX) - A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
 - [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css) - Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
 - [MohamedYoussouf/Design-Resources](https://github.com/MohamedYoussouf/Design-Resources) - A curated list of design resources from design templates, stock photos, icons, colors, and much more.
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
