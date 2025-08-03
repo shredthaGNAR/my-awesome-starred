@@ -2021,7 +2021,7 @@
 - [yeutterg/automator-workflows](https://github.com/yeutterg/automator-workflows) - MacOS Automator Workflows for PDFs, images, and more
 - [jenslys/alfred-youtube-downloader](https://github.com/jenslys/alfred-youtube-downloader) - Alfred Workflow to download YouTube videos
 - [TheYellowArchitect/youtube-dlp-bash](https://github.com/TheYellowArchitect/youtube-dlp-bash) - Bash script which opens youtube-dlp on the dmenu, and optionally pastes the clipboard
-- [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Silence the Web - Blocks ads, analytics, popups, and trackers
+- [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Columbia by Osborne - Blocks ads, analytics, popups, and trackers
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [JustOff/ublock0-updater](https://github.com/JustOff/ublock0-updater) - Keep uBlock Origin up to date using the latest XUL-compatible release from GitHub
