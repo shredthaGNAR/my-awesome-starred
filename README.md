@@ -506,7 +506,7 @@
 - [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style) - A replacement for Firefox's builtin browser style CSS
 - [jwilk/userscripts](https://github.com/jwilk/userscripts) - Jakub's custom CSS and JavaScript (for dotPageMod Firefox extension)
 - [simurai/one-vibrancy](https://github.com/simurai/one-vibrancy) - Vibrancy effect for Atom One themes
-- [typkrft/Poison-Firefox-Theme](https://github.com/typkrft/Poison-Firefox-Theme) - A Firefox theme with Pywal and macOS in mind.
+- [Ducky6944/Poison-Firefox-Theme](https://github.com/Ducky6944/Poison-Firefox-Theme) - A Firefox theme with Pywal and macOS in mind.
 - [eduardhojbota/moonlight-userChrome](https://github.com/eduardhojbota/moonlight-userChrome) - A dark userstyle for Firefox inspired by moonlight-vscode-theme and github-moonlight
 - [GrosBourrin/FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON) - Firefox blueish & dark theme
 - [Andereoo/Cortland](https://github.com/Andereoo/Cortland) - A sleek, modern, macOS-inspired theme for Firefox
@@ -558,6 +558,7 @@
 
 ## Dart 
 
+- [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) - Stack Wallet, a multicoin, cryptocurrency wallet
 - [sangddn/prompt_builder](https://github.com/sangddn/prompt_builder) - A macOS tool to build long-context prompts for models like OpenAI o3 and Gemini 2.5.
 - [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -599,6 +600,7 @@
 
 ## Go 
 
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [jag-k/git-raycast](https://github.com/jag-k/git-raycast) - Automate git using Raycast AI
 - [daihy8759/raychat](https://github.com/daihy8759/raychat) - turn your Raycast pro AI to OpenAI API Compatible API server
 - [missuo/vercel-raycast2api](https://github.com/missuo/vercel-raycast2api) - Serverless Raycast2API on Vercel
@@ -861,6 +863,9 @@
 
 ## JavaScript 
 
+- [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) - 
+- [christiet/firefox-obsidian-bookmark](https://github.com/christiet/firefox-obsidian-bookmark) - Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
+- [patrikzudel/firefox-obsidian-bookmark](https://github.com/patrikzudel/firefox-obsidian-bookmark) - Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 - [grndis/raycast](https://github.com/grndis/raycast) - A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features w
 - [jonschlinkert/open-finder-dialog](https://github.com/jonschlinkert/open-finder-dialog) - Open a finder dialog window (finder prompt) programmatically.
 - [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook) - A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
@@ -1527,7 +1532,7 @@
 - [jonzhak/shopify-get-products](https://github.com/jonzhak/shopify-get-products) - 
 - [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images) - Direct Google Images
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
-- [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme) - A customizable full dark theme for Firefox. You can also add extra functions using the CSS and JS files here apart from the theme.
+- [Izheil/Quantum-Nox-Firefox-Customizations](https://github.com/Izheil/Quantum-Nox-Firefox-Customizations) - Customizations for Firefox. You can add extra functions using the CSS and JS files here.
 - [bolucat/Firefox](https://github.com/bolucat/Firefox) - The Source Code of Firefox on Desktop
 - [slysherz/vscode-comment-box](https://github.com/slysherz/vscode-comment-box) - Extension that transforms lines of text into a pretty comment box.
 - [FirefoxUX/icons](https://github.com/FirefoxUX/icons) - SVG icons used in Firefox. View all icons here:
@@ -1850,6 +1855,8 @@
 
 ## Others 
 
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
+- [devrsi0n/awesome-apple-notes](https://github.com/devrsi0n/awesome-apple-notes) - A curated list of awesome websites, applications, tools, and shiny things for Apple Notes.
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
 - [DarkWebInformer/Dark_Ledger](https://github.com/DarkWebInformer/Dark_Ledger) - A repository preserving darknet market data, including vendor lists, PGP keys, listings, and more for research & intelligence purposes.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
@@ -2199,6 +2206,7 @@
 
 ## Python 
 
+- [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer) - Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [zukijourney/example-api](https://github.com/zukijourney/example-api) - Simple base code for AI reverse proxies.
 - [NHClaessens/samsung_pass_converter](https://github.com/NHClaessens/samsung_pass_converter) - 
@@ -2318,7 +2326,7 @@
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
 - [tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) - An Alfred workflow to search for a movie (or TV show) and get a few ratings
 - [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures) - Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
-- [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for the search feature
+- [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for qBittorrent search feature
 - [MichaelCurrin/url-manager](https://github.com/MichaelCurrin/url-manager) - Centralize, view, edit, label and organize collections of your favorite URLs 🔗 📙
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [noonchen/BTT_AppleWirelessHeadphone](https://github.com/noonchen/BTT_AppleWirelessHeadphone) - Toggle and display battery info of apple wireless headphones on the touch bar
@@ -2829,6 +2837,7 @@
 
 ## Swift 
 
+- [suolapeikko/FinderUtilities](https://github.com/suolapeikko/FinderUtilities) - Finder extension app for macOS. You can create empty text files, copy file and directory locations, and launch a Terminal to a folder path when navigating Finder.
 - [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI) - A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
 - [coinpaprika/coinpaprika-api-swift-client](https://github.com/coinpaprika/coinpaprika-api-swift-client) - This library provides convenient way to use Coinpaprika.com API in Swift.
 - [Kaizosha/Hush](https://github.com/Kaizosha/Hush) - while you’re in the moment, it listens. it sees. it remembers.
@@ -2993,6 +3002,9 @@
 
 ## TypeScript 
 
+- [cardinalby/webext-buildtools-firefox-addons-action](https://github.com/cardinalby/webext-buildtools-firefox-addons-action) - Deploy extension to Firefox Addons and sign xpi file
+- [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot) - Rename Mac screenshots based on its contents with local Ollama or ChatGPT
+- [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
 - [brunnorpdias/RaycastAI](https://github.com/brunnorpdias/RaycastAI) - Access llms from various different apis from your computer launcher
 - [Alorse/raycast-omnipilot-extension](https://github.com/Alorse/raycast-omnipilot-extension) - 🚀 OmniPilot - Advanced Raycast extension for AI-powered assistance with multiple providers support, streaming responses, and command history
 - [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai) - GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
@@ -3090,7 +3102,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate) - Homebrew GUI apps manager
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket) - GetPocket but better!
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [kevinlebrun/pocket-triage](https://github.com/kevinlebrun/pocket-triage) - A simple way to clean up your Pocket links in close to no time.
@@ -3307,7 +3319,7 @@
 - [edgars21/shopify-flex-theme-section-with-vue](https://github.com/edgars21/shopify-flex-theme-section-with-vue) - 
 - [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
 - [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
-- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
+- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - An open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs) - Homebrew GUI App written in electron
 
 ## templ 
