@@ -147,7 +147,7 @@
 - [ccbikai/astro-aria](https://github.com/ccbikai/astro-aria) - A personal blog, portfolio, or blog template
 - [manulthanura/Positivus](https://github.com/manulthanura/Positivus) - A stunning and versatile Astro theme designed for digital marketing agencies.
 - [devaradise/devolio](https://github.com/devaradise/devolio) - A Simple Astro Portfolio & Blog Template for Developers
-- [unoforge/agency-landing-page-Astrojs](https://github.com/unoforge/agency-landing-page-Astrojs) - A simple agency landing page made with astrojs and tailwindcss
+- [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs) - A simple agency landing page made with astrojs and tailwindcss
 - [SofiDevO/portfolio-sofidev-garrux](https://github.com/SofiDevO/portfolio-sofidev-garrux) - Primer blog con astro
 - [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio) - This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the dev
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
@@ -902,6 +902,7 @@
 - [arkenfox/gui](https://github.com/arkenfox/gui) - A companion gui for arkenfox user.js
 - [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search) - Stremio Addon to search downloads and torrents in your Debrid cloud
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
+- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Interactive comparison of debrid services: pricing, host support, speed, and refund policies. Real-Debrid, AllDebrid, Premiumize, TorBox, and more.
 - [mraza007/useful-bookmarks](https://github.com/mraza007/useful-bookmarks) - Basically my firefox bookmarks with better search
 - [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter) - Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
 - [superkhau/curcon](https://github.com/superkhau/curcon) - Command-line tool for converting currencies using Open Exchange Rates.
@@ -2678,7 +2679,6 @@
 - [gingerbeardman/contextmenu-actions](https://github.com/gingerbeardman/contextmenu-actions) - My repo of ContextMenu Actions (can also be used with Automator)
 - [stevehartwell/Configs](https://github.com/stevehartwell/Configs) - Configuration and content filters for various utilities including uBlock Origin, BetterTouchTool, and more.
 - [ethanaicode/Adobe-Block-Hosts-List](https://github.com/ethanaicode/Adobe-Block-Hosts-List) - Adobe Block Hosts List to block Adobe activation.
-- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Interactive comparison of debrid services: pricing, host support, speed, and refund policies. Real-Debrid, AllDebrid, Premiumize, TorBox, and more.
 - [BenjaminOddou/alfred-folderify](https://github.com/BenjaminOddou/alfred-folderify) - 📁 Generate pixel-perfect macOS folder icons
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
