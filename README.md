@@ -30,7 +30,6 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -684,6 +683,7 @@
 
 ## HTML 
 
+- [chrisjagoda/saved-to-bookmark-for-reddit](https://github.com/chrisjagoda/saved-to-bookmark-for-reddit) - A browser extension for converting saved reddit posts to bookmarks.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [fmhy/bookmarks](https://github.com/fmhy/bookmarks) - 
 - [yueyericardo/onetab-custom](https://github.com/yueyericardo/onetab-custom) - 
@@ -1633,10 +1633,6 @@
 - [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro) - Firefox addon to automatically skip intros on Amazon Prime Video
 - [praveenravi77/prime-video-adblock](https://github.com/praveenravi77/prime-video-adblock) - A simple extension to block amazon prime video ads in shows that are "Free but have ads"
 - [feracommerce/shopify_app_detector](https://github.com/feracommerce/shopify_app_detector) - Shopify App Detector chrome extension that can show you what theme and Shopify apps a store is using.
-
-## Jinja 
-
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025
 
 ## Jsonnet 
 
@@ -3368,7 +3364,7 @@
 - [edgars21/shopify-flex-theme-section-with-vue](https://github.com/edgars21/shopify-flex-theme-section-with-vue) - 
 - [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
 - [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
-- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - An open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
+- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs) - Homebrew GUI App written in electron
 
 ## templ 
