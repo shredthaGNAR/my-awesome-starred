@@ -645,6 +645,7 @@
 
 ## bash 
 
+- [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager - works with YubiKey!
@@ -857,6 +858,7 @@
 
 ## chrome 
 
+- [chrisjagoda/saved-to-bookmark-for-reddit](https://github.com/chrisjagoda/saved-to-bookmark-for-reddit) - A browser extension for converting saved reddit posts to bookmarks.
 - [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox) - Browser extension for popular LLMs
 - [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab) - 浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
@@ -919,6 +921,8 @@
 
 ## chrome-extension 
 
+- [chrisjagoda/saved-to-bookmark-for-reddit](https://github.com/chrisjagoda/saved-to-bookmark-for-reddit) - A browser extension for converting saved reddit posts to bookmarks.
+- [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [hy4101/OneTabPro](https://github.com/hy4101/OneTabPro) - Save up to 95% of memory and reduce label clutter \n When you find yourself with too many tabs, click the OneTab Pro icon to convert all the tabs into a list. You can restore it or delete it. \n\n Pri
 - [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - AIPex: agentic assistant in your browser, automate your browser using natural language. Comet Alternative
 - [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook) - A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
@@ -1620,6 +1624,9 @@
 
 ## firefox 
 
+- [chrisjagoda/saved-to-bookmark-for-reddit](https://github.com/chrisjagoda/saved-to-bookmark-for-reddit) - A browser extension for converting saved reddit posts to bookmarks.
+- [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
+- [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox) - Browser extension for popular LLMs
 - [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A refined Safari-style Firefox theme built from my original WhiteSur fork (v1.2.7) - now redesigned with dropdown fixes, icon improvements, and a sleeker UI experience.
 - [rainbowflesh/mimicfox](https://github.com/rainbowflesh/mimicfox) - Cutting "edge" firefox userChrome.css
@@ -2467,6 +2474,7 @@
 
 ## javascript 
 
+- [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [sebaslogen/bitcoin-price-ticker](https://github.com/sebaslogen/bitcoin-price-ticker) - Bitcoin Price Ticker Firefox Addon with multiple price sources and configuration options
 - [micz/ThunderAI](https://github.com/micz/ThunderAI) - ThunderAI is a Thunderbird Addon that uses the capabilities of ChatGPT, Gemini, Anthropic or Ollama to enhance email management.
@@ -3653,7 +3661,7 @@
 - [ShivamMMMxyz/GeminiPromptsIndexer](https://github.com/ShivamMMMxyz/GeminiPromptsIndexer) - 
 - [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [acoliver/llxprt-code](https://github.com/acoliver/llxprt-code) - An open-source multi-provider (including local) fork of gemini-cli. Use whatever LLM you want to code in your terminal.
+- [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code) - An open-source multi-provider (including local) fork of gemini-cli. Use whatever LLM you want to code in your terminal.
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [izikeros/blog](https://github.com/izikeros/blog) - My personal blog available at safjan.com
 - [shredthaGNAR/bookmarks2git](https://github.com/shredthaGNAR/bookmarks2git) - 
@@ -3883,7 +3891,6 @@
 - [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews) - Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
 - [vionya/custom-search-engines](https://github.com/vionya/custom-search-engines) - 
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
@@ -5346,6 +5353,7 @@
 
 ## productivity 
 
+- [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 - [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai) - GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -6295,7 +6303,7 @@
 - [SamR1/rdltr](https://github.com/SamR1/rdltr) - a simple read-it later app
 - [SamR1/rdltr-addon](https://github.com/SamR1/rdltr-addon) - Firefox add-on for rdltr (read-it-later app)
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
-- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - An open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
+- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [uicrooks/shopify-foundation-theme](https://github.com/uicrooks/shopify-foundation-theme) - Modern Shopify theme using Shopify Theme Lab, Liquid, Vue and Tailwind CSS 🎨
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo:
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
@@ -6313,7 +6321,7 @@
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
 - [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats.
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
-- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - An open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
+- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [vuestorefront/shopify](https://github.com/vuestorefront/shopify) - Vue Storefront 2 integration for Shopify
 
 ## web 
