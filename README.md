@@ -1787,7 +1787,7 @@
 - [phillipkingston/Shopify---Change-Image-On-Hover](https://github.com/phillipkingston/Shopify---Change-Image-On-Hover) - A few simple lines of code to swap product images on hover across collection pages and feature product sections on homepage and product pages in Shopify. Many projects in the Shopify App Store are a) 
 - [Shopify/shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js
 - [jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify](https://github.com/jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify) - Monogram functionality using custom options
-- [falcontheme-com/ks-bootshop](https://github.com/falcontheme-com/ks-bootshop) - Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of co
+- [falconthemeco/ks-bootshop](https://github.com/falconthemeco/ks-bootshop) - Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of co
 - [jeremybwilson/shopify-bebe](https://github.com/jeremybwilson/shopify-bebe) - 
 - [clarityglobal/shopify-gtm-ga](https://github.com/clarityglobal/shopify-gtm-ga) - Enhances Google Analytics and integrates Google Tag Manager for Shopify.
 - [Czarto/ShopifyScripts](https://github.com/Czarto/ShopifyScripts) - Various Shopify scripts to generate XML product feeds, remarketing tracking for Google Ads, and others.
@@ -1913,6 +1913,7 @@
 
 ## Others 
 
+- [tankxu/finder-dev-launcher](https://github.com/tankxu/finder-dev-launcher) - A set of Finder toolbar launchers for macOS developers. With these Automator apps you can add one-click buttons to Finder’s toolbar, so the current folder opens instantly in tools like VS Code, Claude
 - [theapplegates/obsidian-astro-suite](https://github.com/theapplegates/obsidian-astro-suite) - A set of Obsidian vaults to plug into your Astro website to write and publish easily.
 - [objective-see/Malware](https://github.com/objective-see/Malware) - macOS Malware Collection
 - [makarandjadhav1/awesome-piracy-master](https://github.com/makarandjadhav1/awesome-piracy-master) - 
