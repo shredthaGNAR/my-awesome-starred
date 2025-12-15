@@ -449,7 +449,7 @@
 - [denesberta/firefox_compact_style](https://github.com/denesberta/firefox_compact_style) - Make Firefox compact!
 - [migueravila/simplefox](https://github.com/migueravila/simplefox) - A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [tsanaung/firefox-safari-style](https://github.com/tsanaung/firefox-safari-style) - 
-- [tomatopickle/Glox](https://github.com/tomatopickle/Glox) - A glassmorphistic Firefox skin, also has round elements
+- [abaanshanid/Glox](https://github.com/abaanshanid/Glox) - A glassmorphistic Firefox skin, also has round elements
 - [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox) - Create cards with acrylic effect in Firefox
 - [RobinBoers/wavefox-lepton](https://github.com/RobinBoers/wavefox-lepton) - :fox_face: Firefox UI fix. A combination of Lepton and Wavefox for Firefox 90-91
 - [Tnings/MacosVibrant](https://github.com/Tnings/MacosVibrant) - 
