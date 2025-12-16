@@ -296,7 +296,6 @@
 
 - [shredthaGNAR/default-nightly-restart-main](https://github.com/shredthaGNAR/default-nightly-restart-main) - 
 - [altano/alanglow](https://github.com/altano/alanglow) - A Firefox theme
-- [akkva/GWfox-TV](https://github.com/akkva/GWfox-TV) - A macOS Tahoe-style Firefox theme
 - [programming086/my_site](https://github.com/programming086/my_site) - Files for site
 - [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur) - A Fork with an Installer for "Firefox Mod Blur - Modular"
 - [Loskir/EdgyArc-fr](https://github.com/Loskir/EdgyArc-fr) - Firefox Userchrome and sidebery style
@@ -1507,7 +1506,6 @@
 - [akospaska/shopify-outofthebox](https://github.com/akospaska/shopify-outofthebox) - shopify-outofthebox
 - [naveendnagendran/Contact-Search](https://github.com/naveendnagendran/Contact-Search) - Search social profiles using email address
 - [Margiris/ytmdesktop](https://github.com/Margiris/ytmdesktop) - NO LONGER UPDATED (see readme). A fork of https://github.com/ytmdesktop/ytmdesktop with added adblocker from https://github.com/cliqz-oss/adblocker.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [cassidoo/shopify-next-netlify](https://github.com/cassidoo/shopify-next-netlify) - A Shopify Next.js demo
 - [akarlsten/snaz](https://github.com/akarlsten/snaz) - VS Code color theme
 - [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc) - a blue-ish gray with a purple accent color palette for Visual Studio Code.
@@ -3503,6 +3501,7 @@
 - [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue) - 
 - [edgars21/shopify-flex-theme-section-with-vue](https://github.com/edgars21/shopify-flex-theme-section-with-vue) - 
 - [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs) - Homebrew GUI App written in electron
