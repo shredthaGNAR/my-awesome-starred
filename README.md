@@ -294,6 +294,7 @@
 
 ## CSS 
 
+- [kbc8090/firefox](https://github.com/kbc8090/firefox) - My heavily modified FirefoxCSS based on material-fox-updated
 - [shredthaGNAR/default-nightly-restart-main](https://github.com/shredthaGNAR/default-nightly-restart-main) - 
 - [altano/alanglow](https://github.com/altano/alanglow) - A Firefox theme
 - [programming086/my_site](https://github.com/programming086/my_site) - Files for site
@@ -897,6 +898,7 @@
 
 ## JavaScript 
 
+- [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) - A collection of system prompts and tool definitions from various AI coding agents: Augment Code, Claude Code, Cluely, Cursor, Devin AI, Kiro, Perplexity, VSCode Agent, Gemini, Codex, OpenAI
 - [QuanBlue/mearn-portfolio](https://github.com/QuanBlue/mearn-portfolio) - My first portfolio website, using MERN stack
 - [santiagobaronz/Nickname-Generator](https://github.com/santiagobaronz/Nickname-Generator) - The nickname generator is a tool designed to display random names following the parameters given by the user as the gender of the name.
 - [UniBreakfast/believable-random-data-generator](https://github.com/UniBreakfast/believable-random-data-generator) - Arrays of first and last names, nicknames, cities, countries, animals, sonets, fantasy features, elements, creatures etc. Versatile rnd function for numbers, arrays, objects, dates, string combination
@@ -986,7 +988,6 @@
 - [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox) - A Graceful and Powerful Customized Firefox
 - [benzBrake/userChrome.js-Loader](https://github.com/benzBrake/userChrome.js-Loader) - 
 - [AmiaaaZ/chrome-read-later](https://github.com/AmiaaaZ/chrome-read-later) - A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
-- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [dnnsmnstrr/alfred-btt](https://github.com/dnnsmnstrr/alfred-btt) - Alfred workflow to run named triggers and actions in BetterTouchTool
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
@@ -1701,6 +1702,7 @@
 
 ## Kotlin 
 
+- [chsbuffer/ReVancedXposed_Spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify) - 
 - [synapp009/NeuroCalm](https://github.com/synapp009/NeuroCalm) - Vagus nerve stimulator with vibration of the smartphone pressed on the cymba conchae of the left ear
 - [jekyllex/jekyllex-android](https://github.com/jekyllex/jekyllex-android) - JekyllEx is an Android app that can manage your Jekyll blog directly from your Android device!
 - [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
@@ -2389,6 +2391,7 @@
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
@@ -2701,7 +2704,7 @@
 
 ## Rust 
 
-- [eigenwallet/core](https://github.com/eigenwallet/core) - eigenwallet is an ambitious community effort to build the Monero wallet for the future.
+- [eigenwallet/core](https://github.com/eigenwallet/core) - eigenwallet is a battle-tested Monero-Bitcoin DEX based on Atomic Swaps.
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
