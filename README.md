@@ -142,7 +142,7 @@
 
 ## Astro 
 
-- [Gothsec/Portfolio](https://github.com/Gothsec/Portfolio) - Portfolio built with Astro, React, TypeScript and TailwindCSS.
+- [Gothsec/Portfolio](https://github.com/Gothsec/Portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 - [lukeliasi/developer-portfolio](https://github.com/lukeliasi/developer-portfolio) - Open source personal portfolio site of Luke Liasi built using Astro framework
 - [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme) - Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
 - [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) - Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart
@@ -1701,7 +1701,7 @@
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [google-gemini/gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) - A collection of guides and examples for the Gemma open models from Google.
 - [izikeros/blog](https://github.com/izikeros/blog) - My personal blog available at safjan.com
-- [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
+- [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps) - A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 - [octokami/darknet_forum](https://github.com/octokami/darknet_forum) - Scraping darknet forums has been the object of research in the field of intelligence and security informatics.  In this repository we scraped three different sources of forums, and performed Sentiment
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
@@ -2813,7 +2813,7 @@
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
 - [rahulkhatri137/revanced-yt-builder](https://github.com/rahulkhatri137/revanced-yt-builder) - Build Revanced YouTube using GitHub actions
 - [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT) - 
-- [peternmuller/revanced-builder](https://github.com/peternmuller/revanced-builder) - An APK and Magisk/KernelSU module builder for RV/RVX apps. Updated hourly.
+- [peternmuller/revanced-morphe-builder](https://github.com/peternmuller/revanced-morphe-builder) - An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.
 - [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) - 
 - [thunderkex/revanced-extended](https://github.com/thunderkex/revanced-extended) - Auto generated & Integrated repository build custom Revanced Extended APKs for both root and non-root users.
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
