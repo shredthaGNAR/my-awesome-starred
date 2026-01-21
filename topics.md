@@ -288,7 +288,7 @@
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [hazcod/maclaunch](https://github.com/hazcod/maclaunch) - Manage your macOS startup items.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
@@ -343,7 +343,7 @@
 - [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [br4adam/bookmarks](https://github.com/br4adam/bookmarks) - Organize your bookmarks with ease.
@@ -1174,7 +1174,7 @@
 - [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter) - Command line tool that allows to export your Pocket articles in a json file.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
@@ -1534,7 +1534,7 @@
 ## developer-tools 
 
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
 - [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
@@ -3028,7 +3028,7 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -3787,7 +3787,7 @@
 - [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/cre
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
 - [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -3979,7 +3979,7 @@
 - [TiltCheck-ME/CollectClock](https://github.com/TiltCheck-ME/CollectClock) - This project aims to streamline the bonus collection process and create an efficient system for timing multiple casino collections.
 - [Nevesto/NullSpawn](https://github.com/Nevesto/NullSpawn) - Cybersecurity-themed Nickname Generator.
 - [synapp009/NeuroCalm](https://github.com/synapp009/NeuroCalm) - Vagus nerve stimulator with vibration of the smartphone pressed on the cymba conchae of the left ear
-- [withLinda/radial-menu-html-generator-for-BetterTouchTool](https://github.com/withLinda/radial-menu-html-generator-for-BetterTouchTool) - Helps you assemble floating HTML radial menus for BetterTouchTool app.
+- [withLinda/radial-menu-html-generator-for-BetterTouchTool](https://github.com/withLinda/radial-menu-html-generator-for-BetterTouchTool) - Generate a BetterTouchTool Floating WebView/HTML Menu radial menu UI, where each menu item triggers an existing BetterTouchTool trigger via its UUID.
 - [tankxu/finder-dev-launcher](https://github.com/tankxu/finder-dev-launcher) - A set of Finder toolbar launchers for macOS developers. With these Automator apps you can add one-click buttons to Finder’s toolbar, so the current folder opens instantly in tools like VS Code, Claude
 - [theapplegates/obsidian-astro-suite](https://github.com/theapplegates/obsidian-astro-suite) - A set of Obsidian vaults to plug into your Astro website to write and publish easily.
 - [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
@@ -4003,7 +4003,7 @@
 - [finxter/AI-Engineering-Learning-Resources](https://github.com/finxter/AI-Engineering-Learning-Resources) - 
 - [googleapis/python-genai](https://github.com/googleapis/python-genai) - Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
 - [shredthaGNAR/my_portfolio_site](https://github.com/shredthaGNAR/my_portfolio_site) - Lucas McKay's Personal Website & Collections of Projects
-- [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption.
+- [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
 - [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb) - Easily block Adobe telemetry checking domains. Continuously Updated. Useful for HostsMan / SwitchHosts / Pi-hole users ✨
 - [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
 - [Drovosek01/awesome-files-hostings](https://github.com/Drovosek01/awesome-files-hostings) - List and comparison of services for publishing and sharing files on the Internet
