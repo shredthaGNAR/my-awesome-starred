@@ -897,7 +897,7 @@
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
-- [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via https://pairdrop.net and self-hosted snapdrop
+- [fm-sys/pairdrop-android](https://github.com/fm-sys/pairdrop-android) - Android client for local file sharing via https://pairdrop.net and self-hosted snapdrop
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
@@ -926,6 +926,7 @@
 
 ## JavaScript 
 
+- [sooti/sootio-stremio-addon](https://github.com/sooti/sootio-stremio-addon) - Stremio Addon to search downloads and torrents in your Debrid cloud
 - [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch) - OptiSearch ｜ AI answer in Google
 - [stuartread7/Unibet-Scraper](https://github.com/stuartread7/Unibet-Scraper) - Script to extract the implied probabilities of all outcomes listed in the live-betting section of unibet.com.  The script has applications in sports gambling arbitrage and for building live alert tool
 - [dannyhines/odds-converter-extension](https://github.com/dannyhines/odds-converter-extension) - Chrome extension to show the implied probability next to all instances of American odds (i.e. "+140") that appear on the webpage.
@@ -2846,7 +2847,7 @@
 - [alx-xlx/backup-website-to-cloud](https://github.com/alx-xlx/backup-website-to-cloud) - This is a script to push a backup of your website, forum etc to Cloud Storage using rclone
 - [programminghoch10/ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged) - ReVanced, but patched locally.
 - [NoName-exe/revanced-extended-mnml](https://github.com/NoName-exe/revanced-extended-mnml) - Minimal ReVanced eXtended YT and YT-M and more for both root and non-root users.
-- [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks) - 📦 Pre-built APKs for Morphe, RVX & Piko
+- [krvstek/uni-apks](https://github.com/krvstek/uni-apks) - 📦 Pre-built APKs for Morphe & Piko
 - [TCM-Course-Resources/Open-Source-Intellingence-Resources](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources) - Compilation of Resources from TCM's OSINT Course
 - [tjluoma/servicestationscripts](https://github.com/tjluoma/servicestationscripts) - Scripts to be used with the macOS App Service Station
 - [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
@@ -3300,7 +3301,7 @@
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 - [stravo1/obsidian-gdrive-sync](https://github.com/stravo1/obsidian-gdrive-sync) - sync notes across devices in Obsidian via Google Drive
 - [codinginbarn/GistoSnips](https://github.com/codinginbarn/GistoSnips) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your e
-- [Elhary/Obsidian-NetClip](https://github.com/Elhary/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
+- [elhariss/Obsidian-NetClip](https://github.com/elhariss/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
 - [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) - Create flexible, context-aware toolbars for your notes with this plugin for Obsidian.
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 - [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) - Work-in-progress successor to Dataview with a focus on UX and speed.
@@ -3356,7 +3357,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [br4adam/bookmarks](https://github.com/br4adam/bookmarks) - Organize your bookmarks with ease.
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
