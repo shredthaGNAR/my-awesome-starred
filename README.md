@@ -850,7 +850,6 @@
 - [icpantsparti/firefox-user.js-tool](https://github.com/icpantsparti/firefox-user.js-tool) - Interactive view, compare, and more for Firefox user.js (eg arkenfox/user.js) + about:config functions
 - [cleidigh/ThunderStorm](https://github.com/cleidigh/ThunderStorm) - Tips, Tricks & Examples for Thunderbird E-mail New Add-On Development
 - [polywock/advanced-image-search](https://github.com/polywock/advanced-image-search) - An extension to search Google images.
-- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists or GitLab snippets Infrastructure which means you
 - [Infocatcher/Custom_Buttons](https://github.com/Infocatcher/Custom_Buttons) - Buttons for Custom Buttons extension for Firefox (and other Gecko-based applications)
 - [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez) - All your base are belong to us!
 - [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api) - Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
@@ -3411,7 +3410,6 @@
 - [Jay-Karia/wherewasi](https://github.com/Jay-Karia/wherewasi) - Chrome extension that remembers your search sessions and captures context.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [martabal/ff-diff](https://github.com/martabal/ff-diff) - ff-diff is a simple script to compare changes in user.js preference files between two versions of Firefox.
-- [kmccartney24la/lottosmartpicker-gcp](https://github.com/kmccartney24la/lottosmartpicker-gcp) - 
 - [huhusmang/Subscription-Management](https://github.com/huhusmang/Subscription-Management) - Manage and track your subscriptions and expenses easily.
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancements for YouTube Music and YouTube
@@ -3666,6 +3664,7 @@
 - [marph91/thunderbird-joplin-export](https://github.com/marph91/thunderbird-joplin-export) - Easily export your Thunderbird emails to Joplin.
 - [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever) - Bookmarks, Snippets and Notes Manager for Developers & Co (website)
 - [quantleaf/github-natural-advanced-search](https://github.com/quantleaf/github-natural-advanced-search) - 
+- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists or GitLab snippets Infrastructure which means you
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [Worie/btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
