@@ -412,6 +412,7 @@
 - [br4adam/bookmarks](https://github.com/br4adam/bookmarks) - Organize your bookmarks with ease.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -2510,7 +2511,7 @@
 
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [cardrank/cardrank](https://github.com/cardrank/cardrank) - Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
 - [d6o/TinderOnline](https://github.com/d6o/TinderOnline) - Find out which of your friends are online on Tinder
@@ -2527,7 +2528,7 @@
 
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter) - Command line tool that allows to export your Pocket articles in a json file.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
@@ -3434,7 +3435,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps) - A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
@@ -4438,6 +4439,9 @@
 
 ## others 
 
+- [yfdyh000/save-text-to-file-firefox](https://github.com/yfdyh000/save-text-to-file-firefox) - Firefox addon that saves highlighted text to a file.
+- [TwisterMc/ff-quick-commands](https://github.com/TwisterMc/ff-quick-commands) - Quick Commands for Firefox
+- [farrosfr/zenix](https://github.com/farrosfr/zenix) - A high-performance Astro 6 SaaS theme by Farros FR. 100/100 Lighthouse optimized with dark mode, MDX blog, changelog, and command palette search.
 - [ReVanced/where-is-revanced-patches](https://github.com/ReVanced/where-is-revanced-patches) - https://gitlab.com/revanced/revanced-patches
 - [joschiv1977/proton_to_apple_password](https://github.com/joschiv1977/proton_to_apple_password) - Python script to convert Proton Pass to Apple Passwords
 - [OldManJax/helperplayers](https://github.com/OldManJax/helperplayers) - json players for TheMovieDb-Helper in Kodi 21
@@ -5062,7 +5066,6 @@
 - [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [cat-in-136/firefox-prefjs-surveyer](https://github.com/cat-in-136/firefox-prefjs-surveyer) - A quick-and-dirty tool of Firefox pref.js survey
 - [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder) - Replace Copilot local AI
 - [tsaost/autoload-temporary-addon](https://github.com/tsaost/autoload-temporary-addon) - Automatically load temporary addons from a local directory when Firefox starts
 - [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs) - Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
