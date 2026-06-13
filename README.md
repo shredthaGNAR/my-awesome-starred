@@ -144,6 +144,10 @@
 
 ## Astro 
 
+- [masoudsoleymani/projects-portfolio-template](https://github.com/masoudsoleymani/projects-portfolio-template) - Astro portfolio template to showcase projects and experiences- fast, customizable, and deploy-ready.
+- [MarcusHoltz/astro-portfolio-theme](https://github.com/MarcusHoltz/astro-portfolio-theme) - Astro Portfolio Theme. Use on almost any host. Ditch the CMS. Edit a few JSON files - personal info, skills, project showcases - build, and deploy.
+- [031devstudios/weighmybru-site](https://github.com/031devstudios/weighmybru-site) - WeighMyBru Website Files
+- [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro) - Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.
 - [farrosfr/zenix](https://github.com/farrosfr/zenix) - A high-performance Astro 6 SaaS theme by Farros FR. 100/100 Lighthouse optimized with dark mode, MDX blog, changelog, and command palette search.
 - [shredthaGNAR/my-zero-bloat-showcase](https://github.com/shredthaGNAR/my-zero-bloat-showcase) - 
 - [nbakh16/career-portfolio-template](https://github.com/nbakh16/career-portfolio-template) - Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.
@@ -2517,7 +2521,6 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [Simply-Static/simply-static](https://github.com/Simply-Static/simply-static) - Convert your WordPress site into a static one with the free WordPress static site generator plugin, Simply Static.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
-- [dejurin/crypto-converter-widget](https://github.com/dejurin/crypto-converter-widget) - Crypto and Currency Converter HTML/JS Widget for any websites. Very simple for embeds — just one tag.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad) - 📓 Plainpad - Self Hosted Note Taking App
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
@@ -2678,6 +2681,7 @@
 - [zukijourney/example-api](https://github.com/zukijourney/example-api) - Simple base code for AI reverse proxies.
 - [NHClaessens/samsung_pass_converter](https://github.com/NHClaessens/samsung_pass_converter) - 
 - [Tong-Liu-128/macOS_Gemini_overlay](https://github.com/Tong-Liu-128/macOS_Gemini_overlay) - A macOS overlay tool for google Gemini
+- [dejurin/crypto-converter-widget](https://github.com/dejurin/crypto-converter-widget) - Crypto and Currency Converter HTML/JS Widget for any websites. Very simple for embeds — just one tag.
 - [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools) - All In One Tools Hacking
 - [bglezseoane/folder-stamp](https://github.com/bglezseoane/folder-stamp) - Generate custom Mac OS folder icons with a desired image as stamp
 - [sebw/linkding-archiver](https://github.com/sebw/linkding-archiver) - Linkding bookmark manager + SingleFile archiving combined
@@ -3228,7 +3232,6 @@
 - [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macOS(Intel 2020)
 - [trybick/dotfiles](https://github.com/trybick/dotfiles) - Config files and new Mac setup guide
 - [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
-- [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
 - [na-ji/dotfiles](https://github.com/na-ji/dotfiles) - 
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
@@ -3853,6 +3856,7 @@
 - [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
+- [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup) - A plugin to extend Joplin with a manual and automatic backup function.
