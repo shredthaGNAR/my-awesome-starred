@@ -1038,7 +1038,6 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
-- [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) - This repo includes all customized GPTs on openai gpt store
 - [KudoAI/chatgpt-omnibox](https://github.com/KudoAI/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
 - [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch) - OptiSearch ｜ AI answer in Google
@@ -1244,7 +1243,6 @@
 - [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures) - Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
 - [williankeller/browser-extension-boilerplate](https://github.com/williankeller/browser-extension-boilerplate) - A boilerplate template for building cross browser extensions (Chrome and Firefox).
 - [Thunderarea/music-mode-for-youtube](https://github.com/Thunderarea/music-mode-for-youtube) - Browser extension for hiding the video on YouTube and blocking the video and playing only the audio on YouTube Music
-- [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark) - TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and op
 - [Jay-Karia/wherewasi](https://github.com/Jay-Karia/wherewasi) - Chrome extension that remembers your search sessions and captures context.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
@@ -1406,7 +1404,6 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [AI-Anywhere/AI-Anywhere](https://github.com/AI-Anywhere/AI-Anywhere) - Your agents. Any browser. Anywhere
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
-- [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
@@ -2235,7 +2232,7 @@
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (150-155) find bar.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (150-156) find bar.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
@@ -2259,7 +2256,7 @@
 - [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Credits, etc. on all major Streaming services
-- [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
+- [atbc-org/Adaptive-Tab-Bar-Colour](https://github.com/atbc-org/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
 - [deanishe/alfred-firefox](https://github.com/deanishe/alfred-firefox) - Search and control Firefox from Alfred
@@ -3075,6 +3072,7 @@
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) - Stack Wallet, a multicoin, cryptocurrency wallet
+- [coinpaprika/coinpaprika-api-swift-client](https://github.com/coinpaprika/coinpaprika-api-swift-client) - Official CoinPaprika API Swift client for iOS/macOS — coin prices, tickers, exchanges, and OHLCV.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
@@ -3691,7 +3689,7 @@
 - [starhaven-io/Brewy](https://github.com/starhaven-io/Brewy) - Brewy: A Homebrew GUI
 - [blaise-io/acelink](https://github.com/blaise-io/acelink) - Play Ace Streams on macOS using Docker.
 - [amebalabs/Kefir](https://github.com/amebalabs/Kefir) - Control KEF speakers from macOS menu bar
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Welcome to the Curated List of Best Awesome Apps & Sites Collection! Apps suggestion, Websites recommendation, Websites guide.
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
@@ -3714,6 +3712,7 @@
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) - Stack Wallet, a multicoin, cryptocurrency wallet
 - [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI) - A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
 - [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A Safari-style Firefox theme with a sleek UI experience.
+- [coinpaprika/coinpaprika-api-swift-client](https://github.com/coinpaprika/coinpaprika-api-swift-client) - Official CoinPaprika API Swift client for iOS/macOS — coin prices, tickers, exchanges, and OHLCV.
 - [petrochenkov-ak/mac-finder](https://github.com/petrochenkov-ak/mac-finder) - :apple: macOS Finder scripts
 - [kotleni/FinderPlus-macOS](https://github.com/kotleni/FinderPlus-macOS) - A simple Finder extension for creating files + opening a terminal from the context menu.
 - [bglezseoane/folder-stamp](https://github.com/bglezseoane/folder-stamp) - Generate custom Mac OS folder icons with a desired image as stamp
@@ -6196,7 +6195,7 @@
 - [pratyushtewari/firefox-like-chrome](https://github.com/pratyushtewari/firefox-like-chrome) - This is the userChrome.css that can be used to theme Firfox Quantum 59.0 to look like chrome
 - [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores) - Thunderbird add-on that shows the spam score your mail server already assigned to each message, in a colour-coded mail-list column with a rule-by-rule breakdown. Reads SpamAssassin, rspamd, MailScanne
 - [dreadnaut/bordercolors-d](https://github.com/dreadnaut/bordercolors-d) - A Thunderbird add-on to color-code the compose window based on the selected identity.
-- [macOS26/bigmac](https://github.com/macOS26/bigmac) - Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
+- [AgentiLoop/bigmac](https://github.com/AgentiLoop/bigmac) - Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 - [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool) - An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
 - [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message) - 
 - [NickBodliev/Color-variants-collection](https://github.com/NickBodliev/Color-variants-collection) - A collection template which will show all the color variations of the product as an individual product on the collection page
@@ -6701,7 +6700,6 @@
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 - [amebalabs/Kefir](https://github.com/amebalabs/Kefir) - Control KEF speakers from macOS menu bar
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature
-- [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark) - TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and op
 - [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
@@ -7442,7 +7440,7 @@
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [starhaven-io/Brewy](https://github.com/starhaven-io/Brewy) - Brewy: A Homebrew GUI
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
@@ -7505,7 +7503,7 @@
 
 - [loocor/codmate](https://github.com/loocor/codmate) - CodMate is a macOS SwiftUI app for managing CLI AI sessions: browse, search, organize, resume, and review work produced by Codex, Claude Code, and Gemini CLI.  It focuses on speed, a compact three-col
 - [starhaven-io/Brewy](https://github.com/starhaven-io/Brewy) - Brewy: A Homebrew GUI
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Sili
