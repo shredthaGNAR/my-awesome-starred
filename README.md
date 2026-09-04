@@ -3687,7 +3687,7 @@
 - [Yumeo0/pear-desktop](https://github.com/Yumeo0/pear-desktop) - Pear 🍐 is extension for music player
 - [KikoTs/youtube-desktop](https://github.com/KikoTs/youtube-desktop) - YouTube Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [eventrifydev/exchangify](https://github.com/eventrifydev/exchangify) - Simple, 100% free and tiny JavaScript library for realtime currency conversion and exchange rate calculation
 - [AI-Anywhere/AI-Anywhere](https://github.com/AI-Anywhere/AI-Anywhere) - Your agents. Any browser. Anywhere
