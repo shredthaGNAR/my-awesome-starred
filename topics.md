@@ -355,7 +355,6 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [chirag127/bookmark-mind](https://github.com/chirag127/bookmark-mind) - Browser extension that auto-organizes bookmarks with any OpenAI-compatible LLM — bring your own key. 13 built-in providers (Groq, OpenRouter, Gemini, Mistral, DeepSeek, OpenAI, LM Studio, Ollama, Lite
 - [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
-- [criimera/cursor-unlimited](https://github.com/criimera/cursor-unlimited) - Cross-platform unlimited credits solution for Cursor Desktop.
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
 - [EvanZhouDev/apple-prompt-injection](https://github.com/EvanZhouDev/apple-prompt-injection) - A list of Apple Intelligence prompt injections.
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
