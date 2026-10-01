@@ -146,6 +146,7 @@
 
 ## Astro 
 
+- [shredthaGNAR/swp-freelancer-portfolio](https://github.com/shredthaGNAR/swp-freelancer-portfolio) - 
 - [denv17/astrolify](https://github.com/denv17/astrolify) - 
 - [cbetz/pulsar-lite](https://github.com/cbetz/pulsar-lite) - Free dark landing-page + blog theme for devtool companies. Astro 6 + Tailwind 4, no UI frameworks.
 - [anastasiiaxfr/zeepay](https://github.com/anastasiiaxfr/zeepay) - Zeepay Fintech Template
@@ -296,7 +297,7 @@
 - [screwtape9/scratcher](https://github.com/screwtape9/scratcher) - Command line utility to get GA lottery scratch off ticket claimed percentage.
 - [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5) - 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
-- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - KoboldCpp - Run GGUF AI models locally with a KoboldAI UI. One File. Zero Install.
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [KDE/kleopatra](https://github.com/KDE/kleopatra) - Certificate manager and GUI for OpenPGP and CMS cryptography
 - [Stiff-2904/Poker_Omaha-Hi](https://github.com/Stiff-2904/Poker_Omaha-Hi) - Juego de poker Omaha Hi
@@ -898,6 +899,7 @@
 - [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api) - Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
 - [gaerfield/static-marks-docker](https://github.com/gaerfield/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
 - [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader) - Facebook Video Downloader in PHP
+- [drsjb80/thematic](https://github.com/drsjb80/thematic) - Now the official repo for the FF/TB Thematic extension.
 - [deyanvelichkov/waybackmachine](https://github.com/deyanvelichkov/waybackmachine) - A simple wayback machine
 - [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io) - Facebook search engine that works after the Graph API has been shut down
 - [kpriyanshu256/Webpage_hosting_from_google_drive](https://github.com/kpriyanshu256/Webpage_hosting_from_google_drive) - Easy way of hosting webpages using a Google Drive Account
@@ -1075,10 +1077,12 @@
 - [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - Instantly preview links with a simple double-click, without breaking your workflow.
 - [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 - [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Browser extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
+- [tublydownloader/Youtube-Downloader-Extension](https://github.com/tublydownloader/Youtube-Downloader-Extension) - A Chrome extension to download YouTube videos in 4K, convert to MP3, and save YouTube Shorts. https://tubly.download
 - [facebook-adblock/facebook_adblock](https://github.com/facebook-adblock/facebook_adblock) - An open-source Ad Blocker for Facebook™
 - [HASH1da1/Gotanda](https://github.com/HASH1da1/Gotanda) - Gotanda is browser Web Extension for OSINT.
 - [MobileFirstLLC/extension-cli](https://github.com/MobileFirstLLC/extension-cli) - Command line tool for building extensions/add-ons for chromium based browsers.
 - [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit) - Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment gets displayed inline.
+- [tublydownloader/Firefox-YouTube-Downloader](https://github.com/tublydownloader/Firefox-YouTube-Downloader) - Firefox add-on to download YouTube videos and Shorts, and convert to MP3 in one click.
 - [emvaized/emvaized.github.io](https://github.com/emvaized/emvaized.github.io) - Personal page for my projets
 - [emvaized/extend-text-selection-extension](https://github.com/emvaized/extend-text-selection-extension) - This Firefox addon adds a context menu entry to extend current text selection one level up
 - [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures) - Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
@@ -1598,7 +1602,6 @@
 - [TheAdnan/facebook-video-download](https://github.com/TheAdnan/facebook-video-download) - Facebook video downloader for Firefox
 - [presuku/exteditor-mailext](https://github.com/presuku/exteditor-mailext) - A Thunderbird add-on for editing text in your favourite external editor!
 - [4ch1m/mozext](https://github.com/4ch1m/mozext) - Extensions / Add-Ons for Mozilla Firefox and Mozilla Thunderbird
-- [drsjb80/thematic](https://github.com/drsjb80/thematic) - Now the official repo for the FF/TB Thematic extension.
 - [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [jeevatkm/ReplyWithHeader-Thunderbird](https://github.com/jeevatkm/ReplyWithHeader-Thunderbird) - Outlook style headers and few goodies for Thunderbird
@@ -1831,7 +1834,7 @@
 - [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search) - This Firefox extension allows you to use multiple of your installed search engines at once.
 - [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close) - Firefox close tab by right clicking on tab button ,userchrome script  🖱️
 - [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click) - Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
-- [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list) - A Chrome/Firefox extension for saving pages to read later.
+- [reading-list-team/reading-list](https://github.com/reading-list-team/reading-list) - A Chrome/Firefox extension for saving pages to read later.
 - [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs) - Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
