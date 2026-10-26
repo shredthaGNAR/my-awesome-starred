@@ -643,6 +643,7 @@
 
 ## Dart 
 
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [d0dg3r/GitSyncMarks-App](https://github.com/d0dg3r/GitSyncMarks-App) - Cross-platform app (Android, iOS, Windows, macOS, Linux) that syncs bookmarks from your GitHub repo. Companion to the GitSyncMarks browser extension.
 - [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Android phone and TV app for discovering open source Android apps
@@ -1009,6 +1010,7 @@
 
 ## JavaScript 
 
+- [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide.
 - [AndBoyS/raycast-gemini-proxyapi](https://github.com/AndBoyS/raycast-gemini-proxyapi) - 
 - [YodaLightsabr/sidecast](https://github.com/YodaLightsabr/sidecast) - Sideload Raycast extensions
 - [CennoxX/spotify-ai-blocker](https://github.com/CennoxX/spotify-ai-blocker) - Block AI-generated music on Spotify Web automatically using a community-maintained list. Runs in your browser with Tampermonkey, keeps your Spotify account free from AI artists, and updates daily.
@@ -2062,6 +2064,7 @@
 
 ## Makefile 
 
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS) - GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 15 (Sequoia).
 - [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula) - Sweet Dracula — A beautiful, darker - Dracula fork.
@@ -2579,6 +2582,10 @@
 
 ## Python 
 
+- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [thiswillbeyourgithub/karakeep_python_api](https://github.com/thiswillbeyourgithub/karakeep_python_api) - Community-driven Python client & CLI for the Karakeep API.
 - [SIMKL/script.simkl](https://github.com/SIMKL/script.simkl) - Kodi add-on for Simkl
 - [Bitte-ein-Git/kodi-repo](https://github.com/Bitte-ein-Git/kodi-repo) - heyFordy's Kodi Repository
@@ -2833,6 +2840,7 @@
 - [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults) - All my default config stuff for mac
+- [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
 - [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow) - Search, open and make notes from Alfred 5 in Notable 📓
@@ -3241,7 +3249,6 @@
 - [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [mdarrint/zsh-aliases-exa](https://github.com/mdarrint/zsh-aliases-exa) - zsh plugin adding aliases for the exa command-line tool
-- [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
 - [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions) - Curated zsh completion corpus
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Generate a single, coherent theme for ls, git, grep, less and zsh
 - [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles) - dot Files: ZSH setup and productivity tools for development
@@ -3578,6 +3585,7 @@
 
 ## TypeScript 
 
+- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [SKaplanOfficial/Placeholders-Toolkit](https://github.com/SKaplanOfficial/Placeholders-Toolkit) - A placeholders system for supplying dynamic content to Raycast extensions.
 - [shbmx/claude-history](https://github.com/shbmx/claude-history) - Raycast extension to browse, search, and resume Claude Code sessions
 - [webpro/browser-tab-bridge](https://github.com/webpro/browser-tab-bridge) - Focus or open a URL in the default browser tab (macOS-only)
@@ -3597,7 +3605,7 @@
 - [pfrankov/obsidian-ai-providers](https://github.com/pfrankov/obsidian-ai-providers) - This plugin is a hub for setting AI providers (OpenAI-like, Ollama and more) in one place.
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI coding with static context
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI coding
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [TfTHacker/obsidian-ai-templater](https://github.com/TfTHacker/obsidian-ai-templater) - Extends Templater with AI Chat commands using the OpenAI Client Library
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
@@ -3762,7 +3770,7 @@
 - [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code) - An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
-- [svarts/OneTab](https://github.com/svarts/OneTab) - OneTab is a chrome extension that transforms all open tabs into a single list for better organization and reduced memory usage. Ideal for heavy tab users, it allows easy access and efficient managemen
+- [makio-san/OneTab](https://github.com/makio-san/OneTab) - OneTab is a chrome extension that transforms all open tabs into a single list for better organization and reduced memory usage. Ideal for heavy tab users, it allows easy access and efficient managemen
 - [cardinalby/webext-buildtools-firefox-addons-action](https://github.com/cardinalby/webext-buildtools-firefox-addons-action) - Deploy extension to Firefox Addons and sign xpi file
 - [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot) - Rename Mac screenshots based on its contents with local Ollama or ChatGPT
 - [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
@@ -4050,7 +4058,7 @@
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [iampueroo/rComments](https://github.com/iampueroo/rComments) - Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
 - [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
-- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [yuanqing/macos-keyboard-shortcuts](https://github.com/yuanqing/macos-keyboard-shortcuts) - :keyboard: A CLI to set application-specific keyboard shortcuts for macOS
 - [Shopify/shopify-theme-inspector](https://github.com/Shopify/shopify-theme-inspector) - A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!
