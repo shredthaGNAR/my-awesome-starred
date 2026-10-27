@@ -146,6 +146,7 @@
 
 ## Astro 
 
+- [DomeT99/astro-wellness](https://github.com/DomeT99/astro-wellness) - A modern, dark, energetic gym template built with Astro and Bulma
 - [shredthaGNAR/swp-freelancer-portfolio](https://github.com/shredthaGNAR/swp-freelancer-portfolio) - 
 - [denv17/astrolify](https://github.com/denv17/astrolify) - 
 - [cbetz/pulsar-lite](https://github.com/cbetz/pulsar-lite) - Free dark landing-page + blog theme for devtool companies. Astro 6 + Tailwind 4, no UI frameworks.
@@ -346,6 +347,7 @@
 
 ## CSS 
 
+- [DomeT99/studio-pulse](https://github.com/DomeT99/studio-pulse) - Marketing site for a full-service communication agency, brand strategy, creative direction, digital, content, and more.
 - [SamidyFR/Virgil](https://github.com/SamidyFR/Virgil) - Up-To-Date Search Engine For Games & Software
 - [arch3rPro/1Panel-Appstore](https://github.com/arch3rPro/1Panel-Appstore) - 1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理)
 - [Rotmayer24/Firefox](https://github.com/Rotmayer24/Firefox) - 
@@ -643,7 +645,6 @@
 
 ## Dart 
 
-- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [d0dg3r/GitSyncMarks-App](https://github.com/d0dg3r/GitSyncMarks-App) - Cross-platform app (Android, iOS, Windows, macOS, Linux) that syncs bookmarks from your GitHub repo. Companion to the GitSyncMarks browser extension.
 - [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Android phone and TV app for discovering open source Android apps
@@ -780,8 +781,9 @@
 
 ## HTML 
 
+- [shredthaGNAR/scratch-ev](https://github.com/shredthaGNAR/scratch-ev) - Free EV calculator for scratch tickets & lottery. Compare expected value before and after taxes.
 - [jclyke/OneTabScrape](https://github.com/jclyke/OneTabScrape) - 
-- [phishdestroy/trustname-evidence](https://github.com/phishdestroy/trustname-evidence) - Phase II evidence package: complete-zone scan of ICANN registrar #4318 Trustname.com / Fewmoretaps OÜ — 15,040 domains tracked, 4,276 classified IOC (3,293 HIGH). Daily updated IOC feeds, SIEM CSV, op
+- [phishdestroy/trustname-evidence](https://github.com/phishdestroy/trustname-evidence) - Phase II evidence package: complete-zone scan of ICANN registrar #4318 Trustname.com / Fewmoretaps OÜ — 20,038 domains tracked, 4,276 classified IOC (3,293 HIGH). Daily updated IOC feeds, SIEM CSV, op
 - [LeakForge/Piracy-Extras](https://github.com/LeakForge/Piracy-Extras) - A curated list of awesome warez and piracy links
 - [cartern206/bovadaOdds](https://github.com/cartern206/bovadaOdds) - 
 - [klane/klane.github.io](https://github.com/klane/klane.github.io) - My portfolio
@@ -1010,6 +1012,7 @@
 
 ## JavaScript 
 
+- [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
 - [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide.
 - [AndBoyS/raycast-gemini-proxyapi](https://github.com/AndBoyS/raycast-gemini-proxyapi) - 
 - [YodaLightsabr/sidecast](https://github.com/YodaLightsabr/sidecast) - Sideload Raycast extensions
@@ -1915,6 +1918,7 @@
 
 ## Kotlin 
 
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) - Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
 - [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV) - StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
@@ -2163,6 +2167,7 @@
 
 ## Others 
 
+- [zebbern/skills](https://github.com/zebbern/skills) - High-quality Agent Skills made to perform reliably in real workflows
 - [RandomNinjaAtk/Ninja-Streams](https://github.com/RandomNinjaAtk/Ninja-Streams) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one stremio setup.
 - [elonmust26/calmtab](https://github.com/elonmust26/calmtab) - Save & restore your browser tabs as named sessions — without closing them. Restore all or just a few, auto-backup, 100% local. A calmer alternative to OneTab & Session Buddy.
 - [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
@@ -2582,10 +2587,13 @@
 
 ## Python 
 
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
+- [zebbern/antigravity-awesome-skills](https://github.com/zebbern/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+- [fahadalijaved/SamFonts](https://github.com/fahadalijaved/SamFonts) - 
 - [thiswillbeyourgithub/karakeep_python_api](https://github.com/thiswillbeyourgithub/karakeep_python_api) - Community-driven Python client & CLI for the Karakeep API.
 - [SIMKL/script.simkl](https://github.com/SIMKL/script.simkl) - Kodi add-on for Simkl
 - [Bitte-ein-Git/kodi-repo](https://github.com/Bitte-ein-Git/kodi-repo) - heyFordy's Kodi Repository
