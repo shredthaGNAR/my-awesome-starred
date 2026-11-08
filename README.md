@@ -539,7 +539,7 @@
 - [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme) - My Joplin App userstyle and userchrome theme style.
 - [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme) - Just another dark theme
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
-- [bgm/firefox-revert-proton](https://github.com/bgm/firefox-revert-proton) - Revert Firefox Proton to Photon & Photon Compact
+- [BGM/firefox-revert-proton](https://github.com/BGM/firefox-revert-proton) - Revert Firefox Proton to Photon & Photon Compact
 - [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks) - Chonky Firefox tabs for square developers
 - [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css) - 
 - [bpwned/protovibrant](https://github.com/bpwned/protovibrant) - 
@@ -1919,6 +1919,7 @@
 
 ## Kotlin 
 
+- [homelessbrian/NuvioPlusIPTV](https://github.com/homelessbrian/NuvioPlusIPTV) - Nuvio + IPTV
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) - Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
@@ -2165,6 +2166,7 @@
 
 ## Others 
 
+- [langgptai/LLM-Jailbreaks](https://github.com/langgptai/LLM-Jailbreaks) - LLM Jailbreaks, ChatGPT, Claude, Llama, DAN Prompts, Prompt Leaking
 - [Perflyst/PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist) - PiHole and AGH Blocklists
 - [zebbern/skills](https://github.com/zebbern/skills) - High-quality Agent Skills made to perform reliably in real workflows
 - [RandomNinjaAtk/Ninja-Streams](https://github.com/RandomNinjaAtk/Ninja-Streams) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one stremio setup.
@@ -2212,9 +2214,8 @@
 - [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
 - [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️
 - [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3) - A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
-- [Simply-Static/simply-static](https://github.com/Simply-Static/simply-static) - Convert your WordPress site into a static one with the free WordPress static site generator plugin, Simply Static.
 - [jwells89/Remove-Quarantine-Bit-Quick-Action](https://github.com/jwells89/Remove-Quarantine-Bit-Quick-Action) - An automator quick action for removing the quarantine bit on un-notarized Mac apps.
-- [linsa-io/firefox-extensions](https://github.com/linsa-io/firefox-extensions) - Awesome Firefox Extensions
+- [gendotnew/firefox-extensions](https://github.com/gendotnew/firefox-extensions) - Awesome Firefox Extensions
 - [Rivens7/Livelist](https://github.com/Rivens7/Livelist) - IPTV-ipv6直播源同步及常看直播
 - [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) - This repo includes all customized GPTs on openai gpt store
 - [Zaxxon709/wizinstaller](https://github.com/Zaxxon709/wizinstaller) - 
@@ -2230,7 +2231,7 @@
 - [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500+ Awesome List Updates, Track it - not just star it!
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
-- [nextdns/blocklists](https://github.com/nextdns/blocklists) - 
+- [nextdns/blocklists](https://github.com/nextdns/blocklists) - Ad and tracker blocklist definitions for NextDNS.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [yuuiko/AquaNotch](https://github.com/yuuiko/AquaNotch) - Add a Notch to your old Macbook with BetterTouchTool.
 - [tankxu/finder-dev-launcher](https://github.com/tankxu/finder-dev-launcher) - A set of Finder toolbar launchers for macOS developers. With these Automator apps you can add one-click buttons to Finder’s toolbar, so the current folder opens instantly in tools like VS Code, Claude
@@ -2419,7 +2420,7 @@
 - [YoshifumiFuyuno/Search-from-Popup-or-ContextMenu](https://github.com/YoshifumiFuyuno/Search-from-Popup-or-ContextMenu) - WebExtension
 - [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 - [chrismessina/alfred-theme-chirp](https://github.com/chrismessina/alfred-theme-chirp) - Themes inspired by Twitter's new font, Chirp
-- [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows) - Amazing Alfred Workflows
+- [gendotnew/alfred-workflows](https://github.com/gendotnew/alfred-workflows) - Amazing Alfred Workflows
 - [alfredapp/magic-8-ball-workflow](https://github.com/alfredapp/magic-8-ball-workflow) - A simple workflow that makes use of the Random utility to answer your questions like a classic magic 8-ball
 - [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [alfredapp/updated-third-party-python2-workflows](https://github.com/alfredapp/updated-third-party-python2-workflows) - Third-party Python 2 Workflows updated to work on macOS Monterey 12.3 and above
@@ -2528,6 +2529,7 @@
 ## PHP 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
+- [Simply-Static/simply-static](https://github.com/Simply-Static/simply-static) - Convert your WordPress site into a static one with the free WordPress static site generator plugin, Simply Static.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad) - 📓 Plainpad - Self Hosted Note Taking App
@@ -2656,6 +2658,7 @@
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
 - [tstanmay13/trend](https://github.com/tstanmay13/trend) - Auto-curated daily digest of dev trends — GitHub Trending, Hacker News, npm, PyPI — fetched and committed on a cron.
+- [exwm/yt_clipper](https://github.com/exwm/yt_clipper) - Mark up YouTube videos in browser and quickly generate video clips. Mark up local videos on https://exwm.github.io/yt_clipper.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
@@ -2706,7 +2709,7 @@
 - [DevShubam/Filters](https://github.com/DevShubam/Filters) - Collection of filters for adblockers
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google An
 - [keshavsapra/Google-Keep-to-Joplin](https://github.com/keshavsapra/Google-Keep-to-Joplin) - Python script to convert Google Keep HTML note exports into Markdown (.md) files suitable for importing into Joplin.
 - [pmiddlet72/fix_onetab](https://github.com/pmiddlet72/fix_onetab) - Scripts to help extract OneTab urls and/or fix the OneTab extension when this app fails in the Google Chrome browser (currently only tested in Linux --&gt; Ubuntu 24.04 and Linux Mint 22.1).
 - [eskutcheon/OnetabAutosorter](https://github.com/eskutcheon/OnetabAutosorter) - tool I wrote in a day or two awhile back using KeyBERT to parse groups of Onetab tabs after parsing the full set from HTML; extensions will allow clustering of bookmarks by topic (using additional dat
@@ -3089,6 +3092,7 @@
 
 ## Rust 
 
+- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [anubhavitis/peeksy-app](https://github.com/anubhavitis/peeksy-app) - 
 - [anubhavitis/peeksy](https://github.com/anubhavitis/peeksy) - screenshot name automation tool for macos
@@ -3397,7 +3401,8 @@
 
 ## Swift 
 
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+- [sameerasw/airsync-mac](https://github.com/sameerasw/airsync-mac) - AirSync macOS - Bring the forbidden macOS continuity to Android
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [fordft/MiddleClicker](https://github.com/fordft/MiddleClicker) - MiddleClicker is a free, open-source macOS app under the MIT License. Hold Fn and click or drag to use the middle mouse button in Blender, Maya, CAD tools, and browsers. Native menu-bar controls, auto
 - [raycast/extensions-swift-tools](https://github.com/raycast/extensions-swift-tools) - Utility to use Swift in a Raycast extension
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
@@ -3476,7 +3481,7 @@
 - [sbarex/MediaInfo](https://github.com/sbarex/MediaInfo) - MacOS Finder Extension to show information about media files (images, video and audio), PDF and Office files on the contextual menu.
 - [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab) - Window preview app for MacOS (on the dock) using AltTab.
 - [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS.
-- [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - Finder Thumbnails, Quick Look previews, Get Info metadata and previews for most types of audio and video files.
+- [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - Thumbnails in Finder, Quick Look previews, and metadata in Spotlight and Finder's Get Info window for most types of audio and video files.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - 📂 macOS Finder toolbar app to open current folder in Visual Studio Code
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Golden Gate, macOS Tahoe, macOS Sequoia, macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut
@@ -3596,6 +3601,7 @@
 
 ## TypeScript 
 
+- [DryKillLogic/stremio-account-bootstrapper](https://github.com/DryKillLogic/stremio-account-bootstrapper) - Set up your Stremio/Nuvio account with just a few clicks
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [wesammustafa/Claude-Code-Quest](https://github.com/wesammustafa/Claude-Code-Quest) - Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide.
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
@@ -3701,7 +3707,6 @@
 - [Ernest0-Production/raycast-ai-custom-providers](https://github.com/Ernest0-Production/raycast-ai-custom-providers) - Bring Your Own Model in Raycast AI via extension
 - [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
 - [foru17/raycast-karakeep](https://github.com/foru17/raycast-karakeep) - ✨ Raycast extension for Karakeep (previously Hoarder) - Your AI-powered bookmarks manager
-- [exwm/yt_clipper](https://github.com/exwm/yt_clipper) - Mark up YouTube videos in browser and quickly generate video clips. Mark up local videos on https://exwm.github.io/yt_clipper.
 - [raycast/prompt-explorer](https://github.com/raycast/prompt-explorer) - Easily browse, share, and add prompts to Raycast
 - [techwithanirudh/portfolio](https://github.com/techwithanirudh/portfolio) - Portfolio of Anirudh (techwithanirudh).
 - [SuffolkLITLab/docassemble-filler-extension](https://github.com/SuffolkLITLab/docassemble-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page. Adapted to work with Docassemble inputs.
